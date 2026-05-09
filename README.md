@@ -2,7 +2,7 @@
 
 An end-to-end football analytics project covering the **Top 5 European leagues** across **4 seasons** (2022-23 to 2025-26). It combines salary, rating, and performance data into a star-schema data model, and delivers insights through a self-contained interactive HTML dashboard.
 
-**→ [Open the Dashboard](dashboard.html)** *(open locally in any browser — no server needed)*
+**→ [Open the Dashboard](https://co7co7.github.io/scoutiq-football-analytics/)** *(live demo via GitHub Pages)*
 
 ---
 
@@ -105,7 +105,7 @@ The result: **0 unmatched records** across all three fact tables.
 ## Repository structure
 
 ```
-├── dashboard.html                     # Main interactive dashboard (open in browser)
+├── index.html                         # Main interactive dashboard (GitHub Pages entry point)
 ├── Archivos_finales_dashboard/
 │   ├── etl_pipeline.py                # Reproducible ETL script
 │   ├── dim_jugador.csv                # Player dimension
@@ -138,9 +138,9 @@ The result: **0 unmatched records** across all three fact tables.
 
 ```bash
 # Clone and open the dashboard
-git clone <repo-url>
-open dashboard.html   # macOS
-# or just double-click dashboard.html in Windows/Linux
+git clone https://github.com/Co7Co7/scoutiq-football-analytics.git
+open index.html   # macOS
+# or just double-click index.html in Windows/Linux
 ```
 
 To regenerate the data model from raw sources:
