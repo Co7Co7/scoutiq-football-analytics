@@ -1,0 +1,611 @@
+﻿Player,Player.1,Apps,Mins,Goals,Assists,Yel,Red,SpG,PS%,AerialsWon,MotM,Rating
+"1Thibaut CourtoisReal Madrid, 33, GK","Thibaut Courtois Real Madrid, 33, GK",4,333,-,-,-,-,-,89.8,0.3,-,7.82
+"2Jude BellinghamReal Madrid, 22, M(CLR),FW","Jude Bellingham Real Madrid, 22, M(CLR),FW",27(1),2324,19,6,5,1,2.3,89.8,0.9,7,7.81
+"3Samu AghehowaGranada, 21, FW","Samu Aghehowa Granada, 21, FW",1,81,1,-,-,-,3,66.7,2,-,7.5
+"4Vinícius JúniorReal Madrid, 25, AM(L),FW","Vinícius Júnior Real Madrid, 25, AM(L),FW",22(4),1875,15,5,7,-,3,78.1,-,4,7.41
+"5IscoReal Betis, 34, M(CLR),FW","Isco Real Betis, 34, M(CLR),FW",28(1),2340,8,5,10,-,2.2,86.2,0.6,5,7.4
+"6SavinhoGirona, 22, AM(CLR)","Savinho Girona, 22, AM(CLR)",35(2),2992,9,10,5,-,1.2,83.2,0.1,6,7.29
+"7Alexander SørlothVillarreal, 30, AM(R),FW","Alexander Sørloth Villarreal, 30, AM(R),FW",30(4),2493,23,6,3,-,2.3,76.6,2.4,7,7.23
+"8Antoine GriezmannAtletico, 35, AM(CLR),FW","Antoine Griezmann Atletico, 35, AM(CLR),FW",31(2),2654,16,6,5,-,2.4,82.7,0.4,6,7.23
+"9Antal YaakobishviliGirona, 21, Defender","Antal Yaakobishvili Girona, 21, Defender",0(1),61,-,-,-,-,-,88.1,2,-,7.22
+"10Dominik GreifMallorca, 29, GK","Dominik Greif Mallorca, 29, GK",1,90,-,-,-,-,-,72.4,-,-,7.2
+"11Robert LewandowskiBarcelona, 37, FW","Robert Lewandowski Barcelona, 37, FW",32(3),2759,19,8,5,-,2.7,72.3,1.5,4,7.2
+"12Mikel MerinoReal Sociedad, 29, M(C),FW","Mikel Merino Real Sociedad, 29, M(C),FW",27(5),2485,5,3,10,-,0.9,77.5,5.3,6,7.18
+"13Juanma HerzogLas Palmas, 21, D(C)","Juanma Herzog Las Palmas, 21, D(C)",3(1),291,2,-,1,-,0.8,88.6,1.0,-,7.16
+"14Nico WilliamsAthletic Club, 23, AM(LR)","Nico Williams Athletic Club, 23, AM(LR)",29(2),2283,5,11,4,1,1.8,79.2,0.3,3,7.16
+"15Iñaki WilliamsAthletic Club, 31, AM(CLR),FW","Iñaki Williams Athletic Club, 31, AM(CLR),FW",32(2),2856,12,3,4,-,2.7,73.7,0.9,4,7.15
+"16Gorka GuruzetaAthletic Club, 29, FW","Gorka Guruzeta Athletic Club, 29, FW",30(2),2241,14,5,2,-,2.0,69.3,2.2,4,7.15
+"17Ilkay GündoganBarcelona, 35, M(C)","Ilkay Gündogan Barcelona, 35, M(C)",33(3),2998,5,9,5,-,1.2,90.5,0.2,2,7.15
+"18RodrygoReal Madrid, 25, AM(CLR),FW","Rodrygo Real Madrid, 25, AM(CLR),FW",28(6),2391,10,5,2,-,2.6,89.9,0.1,3,7.14
+"19Gerard MorenoVillarreal, 34, AM(CR),FW","Gerard Moreno Villarreal, 34, AM(CR),FW",28(2),2232,10,6,-,-,2.1,79.5,0.9,4,7.13
+"20Frenkie de JongBarcelona, 28, D(C),M(C)","Frenkie de Jong Barcelona, 28, D(C),M(C)",20,1644,2,-,7,-,0.4,93.1,1.2,2,7.12
+"21Toni KroosReal Madrid, 36, M(C)","Toni Kroos Real Madrid, 36, M(C)",24(9),2130,1,8,3,-,1.1,94.7,0.2,2,7.12
+"22Federico ValverdeReal Madrid, 27, D(R),M(CLR)","Federico Valverde Real Madrid, 27, D(R),M(CLR)",33(4),2911,2,7,2,-,1.5,91.2,0.6,3,7.12
+"23Jaume DomènechValencia, 35, GK","Jaume Domènech Valencia, 35, GK",1(1),74,-,-,-,-,-,37.9,-,-,7.12
+"24Yangel HerreraGirona, 28, M(C)","Yangel Herrera Girona, 28, M(C)",27(2),2121,5,-,9,-,1.8,87.4,2.1,1,7.11
+"25Lamine YamalBarcelona, 18, AM(R)","Lamine Yamal Barcelona, 18, AM(R)",22(15),2200,5,5,3,-,1.6,84.1,0.1,4,7.11
+"26Takefusa KuboReal Sociedad, 24, AM(CLR),FW","Takefusa Kubo Real Sociedad, 24, AM(CLR),FW",24(6),2155,7,4,2,-,1.5,80.6,0.4,3,7.11
+"27João CanceloBarcelona, 31, D(LR),M(LR)","João Cancelo Barcelona, 31, D(LR),M(LR)",29(3),2506,2,4,7,-,1,84.6,0.8,4,7.09
+"28GaviBarcelona, 21, M(CL)","Gavi Barcelona, 21, M(CL)",10(2),943,1,1,5,-,0.8,91.4,1.1,-,7.08
+"29Artem DovbykGirona, 28, FW","Artem Dovbyk Girona, 28, FW",32(4),2606,24,8,2,-,2.4,71.8,1.1,4,7.08
+"30Aleix GarcíaGirona, 28, M(C)","Aleix García Girona, 28, M(C)",36(1),3201,3,6,4,1,1.1,91.7,0.5,5,7.08
+"31Sergio RamosSevilla, 40, D(CR)","Sergio Ramos Sevilla, 40, D(CR)",28,2518,3,-,7,1,1,89.2,2.9,2,7.06
+"32Brahim DíazReal Madrid, 26, AM(CLR),FW","Brahim Díaz Real Madrid, 26, AM(CLR),FW",18(13),1553,8,6,-,-,1.2,87.1,0.1,4,7.06
+"33Johnny CardosoReal Betis, 24, M(C)","Johnny Cardoso Real Betis, 24, M(C)",15(2),1332,1,2,3,-,0.7,84.7,2.2,-,7.06
+"34Ante BudimirOsasuna, 34, FW","Ante Budimir Osasuna, 34, FW",29(4),2449,17,2,4,-,2.3,54.8,4.9,6,7.06
+"35Arda GülerReal Madrid, 21, AM(CLR)","Arda Güler Real Madrid, 21, AM(CLR)",4(6),373,6,-,1,-,1.5,88.2,-,-,7.04
+"36PepeluValencia, 27, DMC","Pepelu Valencia, 27, DMC",37,3305,7,1,4,-,0.9,82.4,1.6,5,7.04
+"37Antonio RaílloMallorca, 34, D(C)","Antonio Raíllo Mallorca, 34, D(C)",25(1),2203,3,2,4,1,1.1,85.8,4.7,2,7.03
+"38Yannick CarrascoAtletico, 32, D(L),M(CLR),FW","Yannick Carrasco Atletico, 32, D(L),M(CLR),FW",3,223,-,1,-,-,0.7,77.3,-,1,7.03
+"39Fran VieitesReal Betis, 26, GK","Fran Vieites Real Betis, 26, GK",3(1),315,-,-,-,-,-,58.6,0.3,-,7.01
+"40Iago AspasCelta Vigo, 38, AM(CR),FW","Iago Aspas Celta Vigo, 38, AM(CR),FW",31(4),2716,9,10,6,1,2.3,78.4,0.2,4,7.01
+"41Ayoze PérezReal Betis, 32, AM(CLR),FW","Ayoze Pérez Real Betis, 32, AM(CLR),FW",29(2),2309,9,1,4,-,2.2,79.7,0.6,6,7.0
+"42Aurélien TchouaméniReal Madrid, 26, D(C),DMC","Aurélien Tchouaméni Real Madrid, 26, D(C),DMC",22(5),1987,3,1,7,-,1,92.0,1.9,1,7.0
+"43Viktor TsygankovGirona, 28, M(CLR)","Viktor Tsygankov Girona, 28, M(CLR)",26(4),2067,8,7,-,-,1.5,83.1,0.5,-,6.99
+"44RaphinhaBarcelona, 29, AM(CLR),FW","Raphinha Barcelona, 29, AM(CLR),FW",17(11),1373,6,9,4,1,2.1,80.9,0.3,3,6.99
+"45Eduardo CamavingaReal Madrid, 23, D(L),DMC,M(L)","Eduardo Camavinga Real Madrid, 23, D(L),DMC,M(L)",21(10),1826,-,2,9,-,0.5,91.3,0.6,-,6.98
+"46Pablo FornalsReal Betis, 30, M(CLR)","Pablo Fornals Real Betis, 30, M(CLR)",14(1),1155,3,2,2,-,1.1,78.3,0.7,1,6.98
+"47Álex BaenaVillarreal, 24, AM(CL),FW","Álex Baena Villarreal, 24, AM(CL),FW",33(1),2599,2,14,11,1,2.1,78.5,0.2,2,6.97
+"48PichuMallorca, 41, GK","Pichu Mallorca, 41, GK",1,90,-,-,-,-,-,59.3,-,-,6.96
+"49Juan FoythVillarreal, 28, D(CR),DMC","Juan Foyth Villarreal, 28, D(CR),DMC",12,1062,1,1,1,-,0.5,82.8,2.2,1,6.96
+"50Ivan RakiticSevilla, 38, M(CL)","Ivan Rakitic Sevilla, 38, M(CL)",16(2),1426,2,1,6,-,1.8,81.3,0.7,1,6.95
+"51Borja MayoralGetafe, 29, AM(R),FW","Borja Mayoral Getafe, 29, AM(R),FW",25(2),2165,15,1,2,-,1.7,77.7,1.9,4,6.95
+"52Jesús OwonoDeportivo Alaves, 25, GK","Jesús Owono Deportivo Alaves, 25, GK",4,360,-,-,1,-,-,61.8,0.5,-,6.94
+"53Andrii LuninReal Madrid, 27, GK","Andrii Lunin Real Madrid, 27, GK",21,1890,-,-,2,-,-,85.2,0.5,-,6.94
+"54Lucas OcamposSevilla, 31, M(CLR),FW","Lucas Ocampos Sevilla, 31, M(CLR),FW",34(1),2887,4,3,9,-,1.8,73.6,1.9,2,6.93
+"55Yerson MosqueraVillarreal, 24, D(C)","Yerson Mosquera Villarreal, 24, D(C)",14(2),1229,2,1,4,-,0.6,86.0,1.8,-,6.93
+"56Dani CarvajalReal Madrid, 34, D(R)","Dani Carvajal Real Madrid, 34, D(R)",25(3),2177,4,3,3,1,0.6,87.3,0.8,2,6.92
+"57Paulo GazzanigaGirona, 34, GK","Paulo Gazzaniga Girona, 34, GK",38,3420,-,-,2,-,-,75.9,0.2,4,6.92
+"58Samuel LinoAtletico, 26, D(L),M(CLR),FW","Samuel Lino Atletico, 26, D(L),M(CLR),FW",25(9),2092,4,5,-,-,1.6,83.3,0.3,-,6.91
+"59Loïc BadéSevilla, 26, D(C)","Loïc Badé Sevilla, 26, D(C)",27(1),2284,-,1,5,1,0.5,83.0,2.7,1,6.91
+"60Bryan ZaragozaGranada, 24, AM(CLR)","Bryan Zaragoza Granada, 24, AM(CLR)",18(3),1640,6,2,5,-,1.6,65.6,0.2,4,6.91
+"61Brais MéndezReal Sociedad, 29, AM(CR),FW","Brais Méndez Real Sociedad, 29, AM(CR),FW",27(5),2422,5,6,7,-,2.1,81.0,0.8,2,6.91
+"62Luka ModricReal Madrid, 40, M(C)","Luka Modric Real Madrid, 40, M(C)",18(14),1688,2,6,2,-,0.8,91.1,0.3,3,6.9
+"63Eric GarcíaGirona, 25, D(CR),DMC","Eric García Girona, 25, D(CR),DMC",30,2641,5,-,4,-,0.5,90.2,1.7,-,6.88
+"64Martín ZubimendiReal Sociedad, 27, DMC","Martín Zubimendi Real Sociedad, 27, DMC",29(2),2655,4,1,5,-,0.7,86.4,1.4,3,6.88
+"65PedriBarcelona, 23, M(CL)","Pedri Barcelona, 23, M(CL)",16(8),1476,4,2,3,-,0.6,87.8,0.1,1,6.87
+"66Mason GreenwoodGetafe, 24, AM(CLR),FW","Mason Greenwood Getafe, 24, AM(CLR),FW",30(3),2668,8,6,6,1,3.1,81.8,0.2,2,6.87
+"67Jules KoundéBarcelona, 27, D(CR)","Jules Koundé Barcelona, 27, D(CR)",32(3),2899,1,2,4,-,0.7,90.8,2.0,2,6.86
+"68Sergi CardonaLas Palmas, 26, D(L)","Sergi Cardona Las Palmas, 26, D(L)",30(5),2816,1,2,10,-,0.7,82.5,1.5,2,6.86
+"69Álvaro MorataAtletico, 33, AM(CL),FW","Álvaro Morata Atletico, 33, AM(CL),FW",21(11),1912,15,3,2,1,2.1,70.7,1.4,2,6.85
+"70João FélixBarcelona, 26, AM(CL),FW","João Félix Barcelona, 26, AM(CL),FW",18(12),1544,7,3,3,-,2.0,83.7,0.3,3,6.85
+"71Marc PubillAlmeria, 22, D(CR)","Marc Pubill Almeria, 22, D(CR)",22(1),1889,1,3,2,-,0.9,76.7,1.1,1,6.85
+"72Vedat MuriqiMallorca, 32, FW","Vedat Muriqi Mallorca, 32, FW",25(4),2330,7,2,5,-,2.2,64.0,5.0,3,6.84
+"73Carlos VicenteDeportivo Alaves, 27, AM(R)","Carlos Vicente Deportivo Alaves, 27, AM(R)",12(6),1121,2,4,1,-,0.8,63.8,1.3,1,6.84
+"74Lucas VázquezReal Madrid, 34, D(R),M(R)","Lucas Vázquez Real Madrid, 34, D(R),M(R)",14(15),1412,3,6,-,-,0.4,88.5,0.1,2,6.84
+"75Youssef En-NesyriSevilla, 28, FW","Youssef En-Nesyri Sevilla, 28, FW",28(5),2576,16,2,4,-,2.2,65.0,2.1,3,6.84
+"76Yéremy PinoVillarreal, 23, AM(CLR),FW","Yéremy Pino Villarreal, 23, AM(CLR),FW",7,481,-,-,4,-,1.3,82.9,1.1,-,6.83
+"77Álvaro VallesLas Palmas, 28, GK","Álvaro Valles Las Palmas, 28, GK",37,3264,-,-,2,1,-,78.8,0.2,3,6.83
+"78Miguel GutiérrezGirona, 24, D(L),M(LR)","Miguel Gutiérrez Girona, 24, D(L),M(LR)",35,3037,2,7,4,-,1,88.4,0.6,-,6.83
+"79Yuri BerchicheAthletic Club, 36, D(L),M(L)","Yuri Berchiche Athletic Club, 36, D(L),M(L)",22(5),1934,3,1,5,-,0.7,83.6,1.3,2,6.83
+"80Isaac RomeroSevilla, 25, FW","Isaac Romero Sevilla, 25, FW",14,1050,4,4,2,-,3,75.5,1.1,1,6.82
+"81Cristian RiveroValencia, 28, Goalkeeper","Cristian Rivero Valencia, 28, Goalkeeper",0(1),56,-,-,-,-,-,64.3,1.0,-,6.82
+"82Jørgen Strand LarsenCelta Vigo, 26, FW","Jørgen Strand Larsen Celta Vigo, 26, FW",36(1),2889,13,3,5,-,2.2,70.1,2.0,1,6.82
+"83Claudio BravoReal Betis, 43, GK","Claudio Bravo Real Betis, 43, GK",7,630,-,-,-,-,-,78.4,0.4,1,6.81
+"84Diego RicoGetafe, 33, D(CL),M(L)","Diego Rico Getafe, 33, D(CL),M(L)",28(4),2538,-,7,10,-,0.6,67.4,1.0,1,6.81
+"85Germán PezzellaReal Betis, 34, D(C)","Germán Pezzella Real Betis, 34, D(C)",32,2771,1,-,7,-,0.7,86.0,2.7,2,6.81
+"86Marc-André ter StegenBarcelona, 33, GK","Marc-André ter Stegen Barcelona, 33, GK",28,2520,-,-,3,-,-,88.4,0.1,2,6.8
+"87Óscar De MarcosAthletic Club, 37, D(LR),M(CR)","Óscar De Marcos Athletic Club, 37, D(LR),M(CR)",26(2),2263,1,5,5,-,0.2,83.0,0.5,2,6.8
+"88Guido RodríguezReal Betis, 32, DMC","Guido Rodríguez Real Betis, 32, DMC",22(2),1852,2,-,6,-,0.8,85.9,0.9,1,6.8
+"89Lucas RobertoneAlmeria, 29, M(C)","Lucas Robertone Almeria, 29, M(C)",29(4),2392,-,5,11,-,1.1,84.5,1.2,2,6.8
+"90Renato TapiaCelta Vigo, 30, D(C),DMC","Renato Tapia Celta Vigo, 30, D(C),DMC",15(6),1338,-,-,3,1,0.9,76.6,2.1,1,6.8
+"91Daley BlindGirona, 36, D(CL),DMC,M(L)","Daley Blind Girona, 36, D(CL),DMC,M(L)",33(1),2972,1,2,6,-,0.5,90.3,1.1,-,6.8
+"92Pablo BarriosAtletico, 22, M(C)","Pablo Barrios Atletico, 22, M(C)",17(7),1559,-,1,5,-,0.7,85.9,0.6,-,6.79
+"93Giorgi MamardashviliValencia, 25, GK","Giorgi Mamardashvili Valencia, 25, GK",37,3289,-,-,3,1,-,46.9,0.3,4,6.79
+"94Unai SimónAthletic Club, 28, GK","Unai Simón Athletic Club, 28, GK",36,3184,-,-,2,-,-,54.4,0.3,3,6.79
+"95Iván MartínGirona, 27, M(CR)","Iván Martín Girona, 27, M(CR)",33(3),2747,5,4,5,-,0.5,92.3,0.2,-,6.79
+"96Filip JörgensenVillarreal, 24, GK","Filip Jörgensen Villarreal, 24, GK",36,3240,-,-,4,-,-,78.0,0.3,3,6.79
+"97Hugo ÁlvarezCelta Vigo, 22, M(LR)","Hugo Álvarez Celta Vigo, 22, M(LR)",8(4),763,1,1,1,-,1,85.5,0.4,1,6.79
+"98Íñigo Ruíz de GalarretaAthletic Club, 32, DMC","Íñigo Ruíz de Galarreta Athletic Club, 32, DMC",25(4),2106,1,1,7,-,0.4,83.1,0.8,-,6.78
+"99Carl StarfeltCelta Vigo, 30, D(C)","Carl Starfelt Celta Vigo, 30, D(C)",26(1),2221,1,-,4,-,0.4,87.9,2.7,1,6.78
+"100Rodrigo De PaulAtletico, 31, M(CLR),FW","Rodrigo De Paul Atletico, 31, M(CLR),FW",25(9),2088,3,5,7,-,0.9,85.7,0.2,2,6.77
+"101Robin Le NormandReal Sociedad, 29, D(C)","Robin Le Normand Real Sociedad, 29, D(C)",28(1),2473,2,-,13,-,0.3,88.6,3.9,1,6.77
+"102Aitor RuibalReal Betis, 30, D(R),M(LR),FW","Aitor Ruibal Real Betis, 30, D(R),M(LR),FW",11(7),1018,2,1,5,-,0.7,78.6,0.2,2,6.77
+"103Pau CubarsíBarcelona, 19, D(C)","Pau Cubarsí Barcelona, 19, D(C)",18(1),1563,-,-,4,-,0.2,91.7,1.5,-,6.77
+"104Javi GalánReal Sociedad, 31, D(L),M(L)","Javi Galán Real Sociedad, 31, D(L),M(L)",13(1),1076,-,1,3,-,0.2,82.2,0.5,1,6.77
+"105Jonathan BambaCelta Vigo, 30, AM(CLR),FW","Jonathan Bamba Celta Vigo, 30, AM(CLR),FW",24(3),1997,3,2,-,-,1.5,80.7,0.3,-,6.76
+"106Lucas BoyéGranada, 30, AM(L),FW","Lucas Boyé Granada, 30, AM(L),FW",30(1),2555,6,3,8,1,1.8,73.7,1.9,2,6.76
+"107Luiz HenriqueReal Betis, 25, AM(CLR),FW","Luiz Henrique Real Betis, 25, AM(CLR),FW",6(8),612,-,3,1,-,1.3,74.6,1.1,1,6.76
+"108Ronald AraujoBarcelona, 27, D(CR)","Ronald Araujo Barcelona, 27, D(CR)",21(4),1996,1,2,6,-,0.9,89.6,2.4,-,6.75
+"109Sergi RobertoBarcelona, 34, D(R),M(CR)","Sergi Roberto Barcelona, 34, D(R),M(CR)",10(4),864,3,2,4,-,0.7,90.3,0.9,1,6.75
+"110David GilCadiz, 32, GK","David Gil Cadiz, 32, GK",4(1),371,-,-,1,-,-,48.6,0.8,1,6.75
+"111David AlabaReal Madrid, 33, D(CL),M(CL)","David Alaba Real Madrid, 33, D(CL),M(CL)",14,1156,-,1,2,-,1,91.5,0.7,-,6.75
+"112Kepa ArrizabalagaReal Madrid, 31, GK","Kepa Arrizabalaga Real Madrid, 31, GK",13(1),1197,-,-,1,-,-,82.5,0.1,-,6.74
+"113Nemanja MaksimovicGetafe, 31, M(C)","Nemanja Maksimovic Getafe, 31, M(C)",37,3272,4,-,4,-,0.9,82.0,1.9,2,6.74
+"114Ørjan NylandSevilla, 35, GK","Ørjan Nyland Sevilla, 35, GK",24,2160,-,-,1,-,-,56.7,0.5,1,6.74
+"115Mario HermosoAtletico, 30, D(CL)","Mario Hermoso Atletico, 30, D(CL)",29(2),2558,-,1,9,-,0.5,87.1,1.5,1,6.74
+"116José GayàValencia, 30, D(L),M(L)","José Gayà Valencia, 30, D(L),M(L)",22(2),1799,1,2,2,-,0.4,79.2,0.5,-,6.74
+"117Sergi DarderMallorca, 32, M(CLR)","Sergi Darder Mallorca, 32, M(CLR)",21(15),2155,2,5,4,-,0.9,79.5,0.2,2,6.73
+"118Florian LejeuneRayo Vallecano, 34, D(C)","Florian Lejeune Rayo Vallecano, 34, D(C)",37,3328,3,1,5,-,1.8,81.3,2.2,3,6.73
+"119Unai NúñezCelta Vigo, 29, D(C)","Unai Núñez Celta Vigo, 29, D(C)",31(3),2802,1,-,4,-,0.6,79.9,2.7,-,6.73
+"120Jan OblakAtletico, 33, GK","Jan Oblak Atletico, 33, GK",38,3420,-,-,1,-,-,70.9,0.2,-,6.73
+"121Kike SalasSevilla, 24, D(CL)","Kike Salas Sevilla, 24, D(CL)",20(4),1609,3,-,10,-,0.7,79.1,2.8,-,6.73
+"122Yan CoutoGirona, 23, D(R),M(R)","Yan Couto Girona, 23, D(R),M(R)",24(10),2246,1,8,8,-,0.9,82.6,0.1,-,6.73
+"123Nabil FekirReal Betis, 32, AM(CLR),FW","Nabil Fekir Real Betis, 32, AM(CLR),FW",10(9),1050,1,2,1,-,1.5,84.1,0.5,-,6.73
+"124Kirian RodríguezLas Palmas, 30, M(C)","Kirian Rodríguez Las Palmas, 30, M(C)",36(1),3217,6,2,7,-,1.2,89.5,0.6,5,6.73
+"125Álex RemiroReal Sociedad, 31, GK","Álex Remiro Real Sociedad, 31, GK",37,3276,-,-,2,1,-,74.9,0.2,-,6.72
+"126Dani ParejoVillarreal, 37, M(C)","Dani Parejo Villarreal, 37, M(C)",29(4),2588,3,5,4,-,0.4,90.2,0.7,1,6.72
+"127Vicente GuaitaCelta Vigo, 39, GK","Vicente Guaita Celta Vigo, 39, GK",26(1),2402,-,-,2,-,-,63.3,0.5,2,6.72
+"128Mouctar DiakhabyValencia, 29, D(C),DMC","Mouctar Diakhaby Valencia, 29, D(C),DMC",12(2),1072,1,-,6,-,0.5,87.2,1.8,1,6.72
+"129Jeremías LedesmaCadiz, 33, GK","Jeremías Ledesma Cadiz, 33, GK",34,3049,-,-,-,-,-,54.2,0.2,1,6.71
+"130JoseluReal Madrid, 36, FW","Joselu Real Madrid, 36, FW",15(19),1676,10,2,1,-,1.9,73.6,1.2,2,6.71
+"131Hugo DuroValencia, 26, AM(L),FW","Hugo Duro Valencia, 26, AM(L),FW",35(2),2998,13,2,4,-,1.8,72.3,1.6,2,6.71
+"132Ángel CorreaAtletico, 31, AM(CLR),FW","Ángel Correa Atletico, 31, AM(CLR),FW",14(18),1528,9,2,3,-,1.3,79.5,0.2,3,6.71
+"133Axel WitselAtletico, 37, D(C),M(C)","Axel Witsel Atletico, 37, D(C),M(C)",30(5),2784,2,-,5,-,0.2,92.2,1.6,2,6.71
+"134Juan MirandaReal Betis, 26, D(L)","Juan Miranda Real Betis, 26, D(L)",21(4),1862,1,1,8,-,0.6,82.4,1.0,1,6.7
+"135Sergio ArribasAlmeria, 24, AM(CR)","Sergio Arribas Almeria, 24, AM(CR)",22(12),2057,9,4,1,-,1.8,83.1,0.6,1,6.7
+"136Adri EmbarbaAlmeria, 33, AM(CLR),FW","Adri Embarba Almeria, 33, AM(CLR),FW",29(7),2487,3,2,5,-,1.8,75.6,0.7,-,6.7
+"137Nemanja GudeljSevilla, 34, D(C),M(C)","Nemanja Gudelj Sevilla, 34, D(C),M(C)",20(2),1744,1,1,7,-,0.9,86.5,1.9,2,6.7
+"138Reinildo MandavaAtletico, 32, D(CL),M(L)","Reinildo Mandava Atletico, 32, D(CL),M(L)",7(9),726,2,1,2,-,0.3,86.1,0.8,1,6.69
+"139David LópezGirona, 36, D(C),DMC","David López Girona, 36, D(C),DMC",25,1977,3,-,4,-,0.6,92.9,1.3,-,6.69
+"140Jonathan VieraLas Palmas, 36, AM(CLR),FW","Jonathan Viera Las Palmas, 36, AM(CLR),FW",7(2),621,2,1,1,-,1.6,91.1,0.1,-,6.69
+"141Jorge CuencaVillarreal, 26, D(CL)","Jorge Cuenca Villarreal, 26, D(CL)",21(8),1963,3,1,7,-,0.7,84.0,2.1,1,6.69
+"142Rui SilvaReal Betis, 32, GK","Rui Silva Real Betis, 32, GK",28,2476,-,-,4,-,-,66.0,0.4,2,6.69
+"143Luis SuárezAlmeria, 28, AM(L),FW","Luis Suárez Almeria, 28, AM(L),FW",10(5),918,6,-,3,-,2.7,76.3,0.7,2,6.69
+"144Marcos AlonsoBarcelona, 35, D(CL),M(L)","Marcos Alonso Barcelona, 35, D(CL),M(L)",3(2),251,-,-,-,-,0.6,89.0,0.4,-,6.69
+"145Rubén AlcarazCadiz, 34, DMC","Rubén Alcaraz Cadiz, 34, DMC",36,3141,3,1,14,-,1.3,82.2,1.4,2,6.69
+"146David GarcíaOsasuna, 32, D(C)","David García Osasuna, 32, D(C)",27,2336,-,1,5,-,0.6,83.1,3.5,1,6.69
+"147Matija NastasicMallorca, 33, D(C)","Matija Nastasic Mallorca, 33, D(C)",25(1),2257,2,-,8,-,0.3,80.0,1.7,1,6.69
+"148KokeAtletico, 34, M(CLR)","Koke Atletico, 34, M(CLR)",32(3),2504,-,4,5,-,0.3,90.9,0.5,-,6.69
+"149Luis MillaGetafe, 31, M(C)","Luis Milla Getafe, 31, M(C)",25(2),2124,-,1,6,-,0.6,84.1,1.0,-,6.68
+"150Bruno MéndezGranada, 26, D(CR)","Bruno Méndez Granada, 26, D(CR)",15(2),1337,2,-,4,-,0.5,72.0,1.2,-,6.68
+"151Isi PalazónRayo Vallecano, 31, AM(CR),FW","Isi Palazón Rayo Vallecano, 31, AM(CR),FW",34(3),2810,4,1,8,-,1.9,74.9,1.1,1,6.68
+"152Thierry CorreiaValencia, 27, D(R),M(R)","Thierry Correia Valencia, 27, D(R),M(R)",25(6),2162,-,2,4,1,0.2,76.3,0.5,-,6.68
+"153Robert NavarroCadiz, 24, AM(LR)","Robert Navarro Cadiz, 24, AM(LR)",24(4),1906,1,1,-,1,1.1,79.3,0.4,2,6.68
+"154Samú CostaMallorca, 25, DMC","Samú Costa Mallorca, 25, DMC",26(8),2307,1,1,8,-,0.6,77.8,1.8,-,6.68
+"155Jonathan VieraAlmeria, 36, AM(CLR),FW","Jonathan Viera Almeria, 36, AM(CLR),FW",12,923,-,3,1,1,1.0,86.9,0.3,-,6.67
+"156Jesús AresoOsasuna, 26, D(R)","Jesús Areso Osasuna, 26, D(R)",29(8),2663,1,6,3,-,0.2,80.6,0.8,-,6.66
+"157Antonio RüdigerReal Madrid, 33, D(CLR)","Antonio Rüdiger Real Madrid, 33, D(CLR)",30(3),2708,1,-,7,-,0.6,90.0,1.5,-,6.66
+"158Gabriel PaulistaAtletico, 35, D(CR)","Gabriel Paulista Atletico, 35, D(CR)",5,406,-,-,1,-,0.2,87.9,2.6,-,6.66
+"159Rubén PeñaOsasuna, 34, D(LR),M(LR),FW","Rubén Peña Osasuna, 34, D(LR),M(LR),FW",26(3),2105,-,2,3,-,0.6,71.8,0.5,4,6.66
+"160Óscar MinguezaCelta Vigo, 26, D(CLR),M(LR)","Óscar Mingueza Celta Vigo, 26, D(CLR),M(LR)",33(5),3004,2,2,4,-,0.7,80.9,0.4,3,6.66
+"161Chris RamosCadiz, 29, FW","Chris Ramos Cadiz, 29, FW",30(7),2627,5,1,5,-,2.1,57.6,4.7,2,6.66
+"162Luis RiojaDeportivo Alaves, 32, M(LR)","Luis Rioja Deportivo Alaves, 32, M(LR)",31(6),2515,5,4,4,-,1.5,74.9,0.3,3,6.66
+"163Fermín LópezBarcelona, 22, AM(CL)","Fermín López Barcelona, 22, AM(CL)",14(17),1446,8,-,2,-,1.6,85.0,0.3,1,6.65
+"164Marc RocaReal Betis, 29, D(C),DMC","Marc Roca Real Betis, 29, D(C),DMC",24(2),1988,2,2,5,-,0.8,85.5,0.4,-,6.65
+"165Andreas ChristensenBarcelona, 30, D(C),DMC","Andreas Christensen Barcelona, 30, D(C),DMC",27(3),1999,2,2,4,-,0.4,94.3,1.8,-,6.65
+"166Marcos LlorenteAtletico, 31, D(R),M(CR),FW","Marcos Llorente Atletico, 31, D(R),M(CR),FW",29(8),2573,6,4,5,-,0.8,83.3,0.5,2,6.65
+"167Dani VivianAthletic Club, 26, D(C)","Dani Vivian Athletic Club, 26, D(C)",31(2),2879,-,-,6,-,0.3,84.4,1.0,-,6.65
+"168Óscar ValentínRayo Vallecano, 31, DMC","Óscar Valentín Rayo Vallecano, 31, DMC",32(2),2702,1,-,5,1,0.4,81.7,1.0,1,6.65
+"169Kieran TierneyReal Sociedad, 28, D(CL),M(L)","Kieran Tierney Real Sociedad, 28, D(CL),M(L)",14(6),1244,-,2,1,-,0.1,80.1,0.8,1,6.65
+"170SaúlAtletico, 31, D(CL),M(CLR)","Saúl Atletico, 31, D(CL),M(CLR)",14(20),1365,1,5,8,1,0.5,82.1,1.4,2,6.65
+"171Momo MbayeCadiz, 27, D(C)","Momo Mbaye Cadiz, 27, D(C)",2(2),286,-,-,2,-,0.5,56.6,2.3,-,6.65
+"172Predrag RajkovicMallorca, 30, GK","Predrag Rajkovic Mallorca, 30, GK",36,3240,-,-,2,-,-,55.1,0.2,3,6.65
+"173Julián AraujoLas Palmas, 24, D(R),M(R)","Julián Araujo Las Palmas, 24, D(R),M(R)",15(10),1462,1,-,5,-,0.3,83.3,1.2,-,6.65
+"174JailsonCelta Vigo, 30, D(C),DMC","Jailson Celta Vigo, 30, D(C),DMC",9(5),893,-,1,1,-,0.4,83.9,1.2,-,6.64
+"175Beñat PradosAthletic Club, 25, DMC","Beñat Prados Athletic Club, 25, DMC",16(10),1452,-,-,1,-,0.3,83.4,1.2,-,6.64
+"176Aleksandar RadovanovicAlmeria, 32, D(C)","Aleksandar Radovanovic Almeria, 32, D(C)",8(1),572,-,-,2,-,0.1,92.3,1.6,-,6.64
+"177Igor ZubeldiaReal Sociedad, 29, D(C),DMC","Igor Zubeldia Real Sociedad, 29, D(C),DMC",29(1),2524,-,2,11,1,0.4,85.0,2.8,-,6.64
+"178Marcos AcuñaSevilla, 34, D(CL),M(CL)","Marcos Acuña Sevilla, 34, D(CL),M(CL)",18(3),1304,1,2,7,-,0.4,79.7,0.7,1,6.64
+"179Cristhian MosqueraValencia, 21, D(CR)","Cristhian Mosquera Valencia, 21, D(CR)",33(3),3075,-,-,2,-,0.3,88.6,1.4,1,6.64
+"180Gonçalo GuedesVillarreal, 29, AM(CLR),FW","Gonçalo Guedes Villarreal, 29, AM(CLR),FW",9(8),951,3,2,-,-,1.5,81.1,0.1,-,6.64
+"181Oihan SancetAthletic Club, 26, M(C),FW","Oihan Sancet Athletic Club, 26, M(C),FW",25(5),1993,4,5,3,2,1.4,82.8,0.8,1,6.64
+"182Rubén GarcíaOsasuna, 32, M(CLR),FW","Rubén García Osasuna, 32, M(CLR),FW",19(11),1552,3,2,1,-,0.9,72.7,1.0,-,6.63
+"183Ferland MendyReal Madrid, 30, D(L),M(L)","Ferland Mendy Real Madrid, 30, D(L),M(L)",21(2),1727,-,-,5,-,0.2,94.2,0.3,-,6.63
+"184Iker MuñozOsasuna, 23, DMC","Iker Muñoz Osasuna, 23, DMC",20(8),1855,4,-,5,-,0.8,76.2,2.0,1,6.63
+"185Dani RodríguezMallorca, 37, AM(CLR),FW","Dani Rodríguez Mallorca, 37, AM(CLR),FW",31(5),2635,2,4,9,-,0.8,77.3,0.6,1,6.63
+"186Willian JoséReal Betis, 34, FW","Willian José Real Betis, 34, FW",25(8),1984,10,5,-,1,1.5,80.1,1.0,2,6.63
+"187Santi ComesañaVillarreal, 29, M(C)","Santi Comesaña Villarreal, 29, M(C)",20(7),1656,2,-,6,2,0.6,87.3,1.1,2,6.63
+"188Augusto BatallaGranada, 29, GK","Augusto Batalla Granada, 29, GK",17,1530,-,-,3,-,0.1,60.3,0.2,-,6.63
+"189Aihen MuñozReal Sociedad, 28, D(L)","Aihen Muñoz Real Sociedad, 28, D(L)",11(10),1120,-,2,2,-,0.3,77.3,1.1,-,6.63
+"190Mika MármolLas Palmas, 24, D(CL)","Mika Mármol Las Palmas, 24, D(CL)",36,3181,-,1,4,1,0.1,89.0,0.9,-,6.63
+"191André AlmeidaValencia, 25, M(CL),FW","André Almeida Valencia, 25, M(CL),FW",12(6),975,2,1,-,-,0.6,81.5,0.2,1,6.63
+"192Matteo GabbiaVillarreal, 26, D(C)","Matteo Gabbia Villarreal, 26, D(C)",6(1),479,-,-,2,-,-,89.6,2.4,-,6.62
+"193Diego LópezValencia, 23, AM(CLR),FW","Diego López Valencia, 23, AM(CLR),FW",30(6),2672,3,6,2,-,1.1,69.0,1.2,1,6.62
+"194Luiz FelipeReal Betis, 29, D(C)","Luiz Felipe Real Betis, 29, D(C)",4,360,-,-,1,-,0.5,90.4,0.5,-,6.62
+"195Mikel VesgaAthletic Club, 33, M(C)","Mikel Vesga Athletic Club, 33, M(C)",18(9),1537,3,1,2,-,0.7,78.0,1.1,-,6.61
+"196Alberto MoleiroLas Palmas, 22, AM(CL)","Alberto Moleiro Las Palmas, 22, AM(CL)",21(7),1811,3,3,1,-,1.2,81.8,-,-,6.61
+"197Jon GuridiDeportivo Alaves, 31, M(C),FW","Jon Guridi Deportivo Alaves, 31, M(C),FW",34(2),2697,3,4,2,-,1,79.6,1.3,1,6.61
+"198Sergio HerreraOsasuna, 32, GK","Sergio Herrera Osasuna, 32, GK",32,2870,-,-,2,-,-,61.9,0.3,-,6.61
+"199Antonio SiveraDeportivo Alaves, 29, GK","Antonio Sivera Deportivo Alaves, 29, GK",34,3060,-,-,3,-,-,54.7,0.2,1,6.61
+"200Jon PachecoReal Sociedad, 25, D(C)","Jon Pacheco Real Sociedad, 25, D(C)",16(7),1521,1,1,8,-,0.3,87.3,2.5,2,6.61
+"201Marcos PeñaAlmeria, 21, DMC","Marcos Peña Almeria, 21, DMC",4(3),438,-,-,3,-,0.6,86.6,0.4,-,6.61
+"202SusoSevilla, 32, AM(CLR),FW","Suso Sevilla, 32, AM(CLR),FW",15(14),1516,1,4,5,1,0.9,85.3,0.3,1,6.61
+"203Pathé CissRayo Vallecano, 32, D(C),DMC","Pathé Ciss Rayo Vallecano, 32, D(C),DMC",16(15),1661,1,-,10,-,0.7,83.6,1.6,1,6.61
+"204Rubén DuarteDeportivo Alaves, 30, D(CL)","Rubén Duarte Deportivo Alaves, 30, D(CL)",21(7),1877,2,1,7,-,0.5,70.3,1.0,1,6.6
+"205Ander HerreraAthletic Club, 36, M(C)","Ander Herrera Athletic Club, 36, M(C)",10(13),1023,-,3,4,-,0.6,86.6,0.6,-,6.6
+"206Hamari TraoréReal Sociedad, 34, D(R),M(R)","Hamari Traoré Real Sociedad, 34, D(R),M(R)",27(4),2301,-,2,7,-,0.6,84.6,1.0,-,6.6
+"207Javi LópezDeportivo Alaves, 24, D(L)","Javi López Deportivo Alaves, 24, D(L)",25(7),2387,1,3,3,-,0.6,72.4,0.9,1,6.6
+"208Nemanja RadonjicMallorca, 30, M(CLR),FW","Nemanja Radonjic Mallorca, 30, M(CLR),FW",4(7),350,-,-,-,-,0.9,72.9,0.3,-,6.6
+"209Álvaro GarcíaRayo Vallecano, 33, AM(CL),FW","Álvaro García Rayo Vallecano, 33, AM(CL),FW",30(2),2492,6,1,6,1,1.4,68.9,0.5,1,6.6
+"210Chadi RiadReal Betis, 22, D(C)","Chadi Riad Real Betis, 22, D(C)",24(2),2165,-,-,1,-,0.4,89.7,1.7,-,6.6
+"211Abdul MuminRayo Vallecano, 27, D(C)","Abdul Mumin Rayo Vallecano, 27, D(C)",19(1),1695,1,-,5,1,0.3,80.2,2.0,-,6.6
+"212Juanlu SánchezSevilla, 22, D(R),M(CR)","Juanlu Sánchez Sevilla, 22, D(R),M(CR)",11(15),1178,-,2,2,-,0.4,83.2,0.5,-,6.6
+"213Iñigo MartínezBarcelona, 34, D(C)","Iñigo Martínez Barcelona, 34, D(C)",13(7),1293,-,-,5,-,0.4,88.7,1.7,-,6.6
+"214Andoni GorosabelDeportivo Alaves, 29, D(R),M(R)","Andoni Gorosabel Deportivo Alaves, 29, D(R),M(R)",33(3),2865,1,-,6,-,0.4,82.0,0.7,2,6.6
+"215Julen AgirrezabalaAthletic Club, 25, GK","Julen Agirrezabala Athletic Club, 25, GK",2(2),236,-,-,-,-,-,58.8,0.3,1,6.6
+"216Álex SuárezLas Palmas, 33, D(CR)","Álex Suárez Las Palmas, 33, D(CR)",30(2),2569,2,-,7,-,0.2,87.4,1.5,2,6.59
+"217José María GiménezAtletico, 31, D(CR)","José María Giménez Atletico, 31, D(CR)",14(8),1325,-,-,5,-,0.3,86.5,1.4,-,6.59
+"218Mikel OyarzabalReal Sociedad, 29, AM(CLR),FW","Mikel Oyarzabal Real Sociedad, 29, AM(CLR),FW",23(10),2160,9,3,3,-,1.2,75.6,0.8,1,6.59
+"219Luís MaximianoAlmeria, 27, GK","Luís Maximiano Almeria, 27, GK",33,2970,-,-,1,-,-,62.1,0.1,2,6.59
+"220Íñigo LekueAthletic Club, 32, D(LR),M(LR)","Íñigo Lekue Athletic Club, 32, D(LR),M(LR)",22(5),2001,-,2,4,-,0.2,80.4,0.6,-,6.59
+"221Bertrand TraoréVillarreal, 30, AM(R),FW","Bertrand Traoré Villarreal, 30, AM(R),FW",6(5),568,1,-,4,-,1.8,80.6,0.4,-,6.59
+"222Héctor FortBarcelona, 19, D(LR)","Héctor Fort Barcelona, 19, D(LR)",4(3),322,-,2,-,-,0.1,88.2,-,-,6.59
+"223Pacha EspinoRayo Vallecano, 34, D(L)","Pacha Espino Rayo Vallecano, 34, D(L)",29(2),2514,-,1,9,-,0.6,75.1,0.4,-,6.58
+"224David SoriaGetafe, 33, GK","David Soria Getafe, 33, GK",38,3414,-,-,3,-,-,48.4,0.1,2,6.58
+"225Fran GarcíaReal Madrid, 26, D(L),M(L)","Fran García Real Madrid, 26, D(L),M(L)",15(10),1397,1,5,2,-,0.4,88.8,0.3,-,6.58
+"226Carlos ProtesoniDeportivo Alaves, 28, DMC","Carlos Protesoni Deportivo Alaves, 28, DMC",10(19),1122,3,1,5,-,0.5,70.5,1.2,1,6.58
+"227Adrià PedrosaSevilla, 27, D(L),M(L)","Adrià Pedrosa Sevilla, 27, D(L),M(L)",15(16),1750,1,4,1,-,0.5,78.6,0.3,-,6.58
+"228Youssouf SabalyReal Betis, 33, D(LR),M(R)","Youssouf Sabaly Real Betis, 33, D(LR),M(R)",12,1048,-,1,2,-,0.3,85.6,0.8,1,6.57
+"229Aritz ElustondoReal Sociedad, 32, D(CR)","Aritz Elustondo Real Sociedad, 32, D(CR)",7(8),809,-,1,2,-,0.5,87.4,1.9,-,6.57
+"230Miguel RubioGranada, 28, D(C)","Miguel Rubio Granada, 28, D(C)",17(2),1561,1,-,5,-,0.5,80.3,3.1,-,6.57
+"231Ferran TorresBarcelona, 26, AM(LR),FW","Ferran Torres Barcelona, 26, AM(LR),FW",12(17),1203,7,2,2,-,1.3,80.4,0.1,1,6.57
+"232Moi GómezOsasuna, 31, M(CLR)","Moi Gómez Osasuna, 31, M(CLR)",23(5),2012,3,-,3,-,0.7,83.8,0.5,-,6.57
+"233Stefan SavicAtletico, 35, D(C)","Stefan Savic Atletico, 35, D(C)",19(4),1631,-,-,5,1,0.2,83.5,2.0,-,6.57
+"234Aleksandar SedlarDeportivo Alaves, 34, D(C)","Aleksandar Sedlar Deportivo Alaves, 34, D(C)",11,949,1,-,2,-,0.4,84.9,1.5,1,6.57
+"235Juan IglesiasGetafe, 27, D(CLR),M(R)","Juan Iglesias Getafe, 27, D(CLR),M(R)",17(7),1420,-,2,4,-,0.6,65.2,0.5,1,6.57
+"236Manu SánchezCelta Vigo, 25, D(L),M(L)","Manu Sánchez Celta Vigo, 25, D(L),M(L)",20(6),1776,-,5,3,-,0.3,76.5,0.3,-,6.57
+"237Ilias AkhomachVillarreal, 22, AM(R)","Ilias Akhomach Villarreal, 22, AM(R)",17(14),1514,2,2,4,-,1.0,80.6,0.1,-,6.57
+"238Aitor ParedesAthletic Club, 25, D(C)","Aitor Paredes Athletic Club, 25, D(C)",31(3),2708,1,-,7,1,0.4,85.6,1.8,-,6.57
+"239Lucas TorróOsasuna, 31, DMC","Lucas Torró Osasuna, 31, DMC",21(7),1794,1,-,5,-,1.1,76.1,2.6,1,6.56
+"240Alejandro BaldeBarcelona, 22, D(LR),M(L)","Alejandro Balde Barcelona, 22, D(LR),M(L)",15(3),1378,-,1,1,-,0.3,88.5,0.7,-,6.56
+"241Álex SolaDeportivo Alaves, 26, D(R),M(LR)","Álex Sola Deportivo Alaves, 26, D(R),M(LR)",14(15),1261,-,3,2,-,1,71.8,0.6,-,6.56
+"242Gastón ÁlvarezGetafe, 26, D(CL)","Gastón Álvarez Getafe, 26, D(CL)",29(5),2538,2,-,7,-,0.4,76.2,1.5,-,6.56
+"243Yeray ÁlvarezAthletic Club, 31, D(C)","Yeray Álvarez Athletic Club, 31, D(C)",14(5),1156,-,-,1,1,0.4,81.1,2.3,-,6.56
+"244Javi HernándezCadiz, 27, D(CL)","Javi Hernández Cadiz, 27, D(CL)",28(2),2518,1,2,10,-,1,73.9,1.0,-,6.56
+"245Giovanni GonzálezMallorca, 31, D(CR)","Giovanni González Mallorca, 31, D(CR)",27(7),2466,1,1,7,-,0.4,77.2,1.1,2,6.56
+"246Ander BarrenetxeaReal Sociedad, 24, M(LR)","Ander Barrenetxea Real Sociedad, 24, M(LR)",20(9),1440,4,1,1,-,1.3,72.5,0.5,-,6.55
+"247Stole DimitrievskiRayo Vallecano, 32, GK","Stole Dimitrievski Rayo Vallecano, 32, GK",37,3330,-,-,2,-,-,55.4,0.2,4,6.55
+"248Boubakary SoumaréSevilla, 27, DMC","Boubakary Soumaré Sevilla, 27, DMC",26(2),2288,-,1,10,-,-,90.3,0.7,-,6.55
+"249Antonio BlancoDeportivo Alaves, 25, DMC","Antonio Blanco Deportivo Alaves, 25, DMC",29(4),2437,-,1,5,1,0.6,77.9,0.7,-,6.55
+"250Sokratis PapastathopoulosReal Betis, 37, D(CR)","Sokratis Papastathopoulos Real Betis, 37, D(CR)",12(3),1135,-,-,6,-,0.1,88.3,1.7,-,6.55
+"251Joseph AidooCelta Vigo, 30, D(C)","Joseph Aidoo Celta Vigo, 30, D(C)",4(2),407,-,-,-,-,0.5,78.5,2.3,-,6.55
+"252CopeteMallorca, 26, D(C)","Copete Mallorca, 26, D(C)",17(2),1339,1,1,7,-,0.4,78.1,1.1,1,6.55
+"253Érik LamelaSevilla, 34, AM(CLR),FW","Érik Lamela Sevilla, 34, AM(CLR),FW",5(8),459,2,-,3,-,0.7,86.0,0.2,-,6.55
+"254NachoReal Madrid, 36, D(CLR)","Nacho Real Madrid, 36, D(CLR)",18(11),1741,-,1,4,2,0.2,92.5,1.0,-,6.54
+"255César AzpilicuetaAtletico, 36, D(CLR),M(R)","César Azpilicueta Atletico, 36, D(CLR),M(R)",14(11),1423,-,2,4,-,0.1,86.1,0.9,-,6.54
+"256Sergi CanósValencia, 29, M(LR)","Sergi Canós Valencia, 29, M(LR)",15(12),1236,1,2,2,-,1.6,69.2,0.5,1,6.54
+"257Javi GuerraValencia, 22, M(C)","Javi Guerra Valencia, 22, M(C)",28(8),2505,4,1,3,1,1.2,74.1,0.7,-,6.54
+"258Alex BerenguerAthletic Club, 30, D(LR),M(CLR),FW","Alex Berenguer Athletic Club, 30, D(LR),M(CLR),FW",15(20),1582,7,3,4,-,0.9,73.2,0.6,2,6.54
+"259Marko DmitrovicSevilla, 34, GK","Marko Dmitrovic Sevilla, 34, GK",13,1170,-,-,1,-,-,68.7,0.2,-,6.54
+"260Jesús NavasSevilla, 40, D(R),M(R)","Jesús Navas Sevilla, 40, D(R),M(R)",25(4),2012,-,2,6,1,0.2,78.4,0.3,-,6.53
+"261Pablo MaffeoMallorca, 28, D(LR),M(R)","Pablo Maffeo Mallorca, 28, D(LR),M(R)",17(5),1458,1,2,3,1,0.5,66.3,1.5,1,6.53
+"262Lucien AgouméSevilla, 24, M(C)","Lucien Agoumé Sevilla, 24, M(C)",9(3),778,-,-,3,-,0.5,83.5,0.8,-,6.53
+"263Martin ValjentMallorca, 30, D(C)","Martin Valjent Mallorca, 30, D(C)",28,2355,-,1,5,-,0.3,81.5,1.7,2,6.53
+"264Dodi LukébakioSevilla, 28, AM(CLR),FW","Dodi Lukébakio Sevilla, 28, AM(CLR),FW",12(11),1127,5,1,-,-,1.8,84.2,0.5,-,6.53
+"265Sergio RuizGranada, 31, DMC","Sergio Ruiz Granada, 31, DMC",31(5),2504,-,4,9,-,0.4,85.1,0.9,1,6.53
+"266Rafa MarínDeportivo Alaves, 23, D(C)","Rafa Marín Deportivo Alaves, 23, D(C)",27(6),2441,-,-,6,-,0.4,82.8,1.7,-,6.53
+"267Anthony LozanoAlmeria, 33, AM(L),FW","Anthony Lozano Almeria, 33, AM(L),FW",10(3),778,3,-,1,-,1.8,74.8,1.6,-,6.53
+"268Éder MilitãoReal Madrid, 28, D(CR)","Éder Militão Real Madrid, 28, D(CR)",6(4),497,-,-,-,-,0.2,90.8,1.1,-,6.53
+"269Rodrigo RiquelmeAtletico, 26, D(L),M(CL)","Rodrigo Riquelme Atletico, 26, D(L),M(CL)",17(17),1527,3,5,1,-,1.1,79.3,0.1,1,6.52
+"270Enzo LoiodiceLas Palmas, 25, DMC","Enzo Loiodice Las Palmas, 25, DMC",19(15),1793,-,1,2,-,0.5,84.3,0.8,-,6.52
+"271Abdel AbqarDeportivo Alaves, 27, D(C)","Abdel Abqar Deportivo Alaves, 27, D(C)",27,2316,-,-,10,-,0.4,72.9,1.4,-,6.52
+"272Sergio AkiemeAlmeria, 28, D(L),M(L)","Sergio Akieme Almeria, 28, D(L),M(L)",19,1676,2,-,2,-,0.5,79.8,0.5,-,6.52
+"273Bruno LangaAlmeria, 28, D(L),M(L)","Bruno Langa Almeria, 28, D(L),M(L)",9(2),819,1,-,1,1,0.7,76.0,0.2,-,6.52
+"274Léo BaptistãoAlmeria, 33, AM(CLR),FW","Léo Baptistão Almeria, 33, AM(CLR),FW",22(10),1844,6,-,6,1,1.5,67.2,1.5,-,6.52
+"275Edgar GonzálezAlmeria, 29, D(C),DMC","Edgar González Almeria, 29, D(C),DMC",30(1),2529,2,-,5,1,0.4,85.4,2.3,1,6.51
+"276FaliCadiz, 32, D(C),DMC","Fali Cadiz, 32, D(C),DMC",30,2552,-,-,12,-,0.4,77.3,1.3,-,6.51
+"277Sheraldo BeckerReal Sociedad, 31, AM(CLR),FW","Sheraldo Becker Real Sociedad, 31, AM(CLR),FW",8(7),774,2,2,1,-,1.4,75.9,0.3,1,6.51
+"278Unai LópezRayo Vallecano, 30, M(CR)","Unai López Rayo Vallecano, 30, M(CR)",28(7),2127,1,2,9,-,0.9,84.3,0.5,1,6.51
+"279Dion LopyAlmeria, 24, DMC","Dion Lopy Almeria, 24, DMC",23(7),1921,-,-,5,-,0.8,85.0,1.1,1,6.51
+"280Nacho VidalMallorca, 31, D(R)","Nacho Vidal Mallorca, 31, D(R)",5(3),417,-,-,2,-,1.0,77.4,1.6,-,6.51
+"281PortuGirona, 33, M(CLR),FW","Portu Girona, 33, M(CLR),FW",11(22),1180,7,5,3,-,0.6,80.1,0.2,1,6.51
+"282Raúl AlbiolVillarreal, 40, D(C)","Raúl Albiol Villarreal, 40, D(C)",24(2),2036,-,1,6,-,0.2,86.3,1.8,-,6.5
+"283Alfonso PedrazaVillarreal, 30, D(L),M(L)","Alfonso Pedraza Villarreal, 30, D(L),M(L)",14(5),1120,1,3,4,1,0.5,78.9,0.3,-,6.5
+"284Ignasi MiquelGranada, 33, D(C)","Ignasi Miquel Granada, 33, D(C)",33(1),2992,1,1,5,-,0.6,82.0,1.7,1,6.5
+"285Iván BalliuRayo Vallecano, 34, D(LR),M(R)","Iván Balliu Rayo Vallecano, 34, D(LR),M(R)",32(1),2876,-,1,4,-,0.3,77.0,0.9,-,6.5
+"286Sandro RamírezLas Palmas, 30, AM(LR),FW","Sandro Ramírez Las Palmas, 30, AM(LR),FW",21(6),1818,1,3,3,-,1.9,82.5,0.3,-,6.5
+"287Héctor BellerínReal Betis, 31, D(R),M(R)","Héctor Bellerín Real Betis, 31, D(R),M(R)",20(3),1715,-,1,-,1,0.1,79.9,0.7,-,6.5
+"288Gonzalo VillarGranada, 28, M(C)","Gonzalo Villar Granada, 28, M(C)",21(14),1790,1,3,7,-,0.6,84.0,0.9,1,6.5
+"289Victor ChustCadiz, 26, D(C)","Victor Chust Cadiz, 26, D(C)",22,1870,-,1,3,2,0.2,80.6,1.2,-,6.5
+"290Saúl CocoLas Palmas, 27, D(C)","Saúl Coco Las Palmas, 27, D(C)",26(4),2295,1,-,6,1,0.7,88.9,1.9,2,6.5
+"291Aridane HernándezRayo Vallecano, 37, D(C)","Aridane Hernández Rayo Vallecano, 37, D(C)",19,1691,-,-,3,-,0.3,85.8,1.8,-,6.49
+"292Mihailo RisticCelta Vigo, 30, D(L),M(L)","Mihailo Ristic Celta Vigo, 30, D(L),M(L)",9(3),809,-,-,2,-,0.8,74.8,0.8,-,6.49
+"293Gabriel PaulistaValencia, 35, D(CR)","Gabriel Paulista Valencia, 35, D(CR)",16(2),1401,-,-,4,1,0.4,86.1,1.6,-,6.49
+"294Kike GarcíaDeportivo Alaves, 36, FW","Kike García Deportivo Alaves, 36, FW",15(18),1424,3,2,3,-,1.7,68.4,1.5,-,6.49
+"295Damián RodríguezCelta Vigo, 23, M(C)","Damián Rodríguez Celta Vigo, 23, M(C)",3(2),258,-,2,1,-,0.2,93.1,-,-,6.49
+"296Cristhian StuaniGirona, 39, AM(CLR),FW","Cristhian Stuani Girona, 39, AM(CLR),FW",5(26),784,9,3,6,-,1.1,73.7,0.8,2,6.49
+"297FernandoSevilla, 38, D(C),DMC","Fernando Sevilla, 38, D(C),DMC",5(3),461,-,-,-,-,0.1,87.3,1.3,-,6.49
+"298Nahuel TenagliaDeportivo Alaves, 30, D(CR)","Nahuel Tenaglia Deportivo Alaves, 30, D(CR)",11(14),1131,1,-,5,-,0.3,74.5,1,-,6.49
+"299Williot SwedbergCelta Vigo, 22, AM(CL)","Williot Swedberg Celta Vigo, 22, AM(CL)",4(11),434,5,-,1,-,0.8,77.5,0.3,-,6.48
+"300Jorge HerrandoOsasuna, 25, D(C)","Jorge Herrando Osasuna, 25, D(C)",18(1),1644,-,-,4,-,0.2,79.9,1.4,-,6.48
+"301Nahuel MolinaAtletico, 28, D(R),M(R)","Nahuel Molina Atletico, 28, D(R),M(R)",19(11),1860,2,3,4,1,0.4,76.9,0.2,-,6.48
+"302Francis CoquelinVillarreal, 34, M(CLR)","Francis Coquelin Villarreal, 34, M(CLR)",10(7),912,-,-,4,-,0.2,88.1,0.6,-,6.48
+"303Enes ÜnalGetafe, 28, FW","Enes Ünal Getafe, 28, FW",1(2),138,-,1,-,-,0.3,67.6,1,-,6.48
+"304Pablo BustoReal Betis, 20, Defender","Pablo Busto Real Betis, 20, Defender",0(2),42,-,-,-,-,0.5,76.2,-,-,6.48
+"305Ander GuevaraDeportivo Alaves, 28, DMC","Ander Guevara Deportivo Alaves, 28, DMC",33(4),2937,1,-,7,-,0.4,76.0,1.2,1,6.47
+"306Arnau MartínezGirona, 23, D(CLR),DMC,M(R)","Arnau Martínez Girona, 23, D(CLR),DMC,M(R)",14(7),1242,-,2,5,-,-,89.9,0.5,-,6.47
+"307Damián SuárezGetafe, 37, D(R),M(R)","Damián Suárez Getafe, 37, D(R),M(R)",16(1),1307,-,2,7,1,0.2,70.8,0.5,-,6.47
+"308Aimar OrozOsasuna, 24, AM(CL),FW","Aimar Oroz Osasuna, 24, AM(CL),FW",26(7),2351,2,1,3,-,0.8,82.2,0.6,-,6.47
+"309Juanmi LatasaGetafe, 25, FW","Juanmi Latasa Getafe, 25, FW",15(17),1557,2,-,5,1,1.4,52.9,4.6,-,6.47
+"310Munir El HaddadiLas Palmas, 30, AM(CLR),FW","Munir El Haddadi Las Palmas, 30, AM(CLR),FW",32(6),2471,3,2,3,-,1.1,80.4,0.6,-,6.47
+"311Manu MorlanesMallorca, 27, DMC","Manu Morlanes Mallorca, 27, DMC",16(19),1611,-,2,2,-,0.3,84.8,0.5,-,6.47
+"312Memphis DepayAtletico, 32, AM(CL),FW","Memphis Depay Atletico, 32, AM(CL),FW",9(14),892,5,1,2,-,1.7,76.1,0.2,1,6.46
+"313Iza CarcelénCadiz, 33, D(R)","Iza Carcelén Cadiz, 33, D(R)",29(6),2609,-,-,2,-,0.3,74.4,0.6,-,6.46
+"314Beñat TurrientesReal Sociedad, 24, DMC","Beñat Turrientes Real Sociedad, 24, DMC",19(10),1692,-,1,4,-,0.8,87.2,0.6,-,6.46
+"315Fran PérezValencia, 23, AM(LR)","Fran Pérez Valencia, 23, AM(LR)",27(5),2070,1,4,4,-,0.6,80.0,0.2,-,6.46
+"316Imanol García de AlbénizAthletic Club, 25, D(L)","Imanol García de Albéniz Athletic Club, 25, D(L)",5(4),520,-,-,2,-,0.1,83.5,1.1,-,6.46
+"317Johan MojicaOsasuna, 33, D(L),M(L)","Johan Mojica Osasuna, 33, D(L),M(L)",22(8),2041,-,3,1,-,0.6,77.0,0.5,-,6.46
+"318Kiko FemeníaVillarreal, 35, D(LR),M(R)","Kiko Femenía Villarreal, 35, D(LR),M(R)",16(7),1581,-,-,6,1,-,85.3,0.4,-,6.46
+"319Kamil JózwiakGranada, 28, AM(CLR)","Kamil Józwiak Granada, 28, AM(CLR)",7(4),573,-,1,2,-,0.4,73.1,1.3,-,6.46
+"320Umar SadiqReal Sociedad, 29, FW","Umar Sadiq Real Sociedad, 29, FW",12(14),1078,3,1,4,-,1.3,71.1,1.1,-,6.45
+"321Alejandro CatenaOsasuna, 31, D(C)","Alejandro Catena Osasuna, 31, D(C)",28(2),2536,1,3,8,1,0.6,81.9,2.0,-,6.45
+"322Srdjan BabicAlmeria, 30, D(C)","Srdjan Babic Almeria, 30, D(C)",1,90,-,-,-,-,1.0,93.5,3.0,-,6.45
+"323Myrto UzuniGranada, 30, AM(LR),FW","Myrto Uzuni Granada, 30, AM(LR),FW",28(6),2460,11,1,3,-,1.9,78.9,0.3,-,6.45
+"324Cenk ÖzkacarValencia, 25, D(CL)","Cenk Özkacar Valencia, 25, D(CL)",18(5),1596,-,-,3,-,0.3,81.7,1.3,1,6.45
+"325Álex CentellesAlmeria, 26, D(L)","Álex Centelles Almeria, 26, D(L)",11(3),980,-,1,2,-,0.1,76.3,1.1,-,6.45
+"326Carlos DomínguezCelta Vigo, 25, D(C)","Carlos Domínguez Celta Vigo, 25, D(C)",18(4),1586,-,-,2,-,0.2,79.2,1.6,-,6.44
+"327Alberto MorenoVillarreal, 33, D(L),M(L)","Alberto Moreno Villarreal, 33, D(L),M(L)",17(10),1490,2,2,1,2,0.6,83.5,0.4,-,6.44
+"328PejiñoLas Palmas, 29, Forward","Pejiño Las Palmas, 29, Forward",6(11),501,2,-,1,-,1.0,80.6,0.2,-,6.44
+"329Facundo PellistriGranada, 24, AM(R)","Facundo Pellistri Granada, 24, AM(R)",14(1),1221,2,1,-,1,1.1,75.6,0.6,-,6.44
+"330Eric BaillyVillarreal, 32, D(CR)","Eric Bailly Villarreal, 32, D(CR)",9(1),839,-,-,4,-,0.2,88.0,1.6,-,6.44
+"331Yarek GasiorowskiValencia, 21, D(CL)","Yarek Gasiorowski Valencia, 21, D(CL)",7(7),733,-,-,1,-,0.1,74.8,1.1,-,6.44
+"332Lucas PiresCadiz, 25, D(L),M(L)","Lucas Pires Cadiz, 25, D(L),M(L)",15(13),1529,1,-,6,-,0.4,77.7,0.4,-,6.44
+"333Djené DakonamGetafe, 34, D(CR),DMC","Djené Dakonam Getafe, 34, D(CR),DMC",30(3),2494,-,-,12,1,0.2,78.6,1.2,-,6.43
+"334Óliver TorresSevilla, 31, M(CLR)","Óliver Torres Sevilla, 31, M(CLR)",18(9),1624,-,1,3,-,0.3,83.8,0.4,-,6.43
+"335Toni LatoMallorca, 28, D(L),M(L)","Toni Lato Mallorca, 28, D(L),M(L)",16(12),1545,-,1,3,-,0.2,77.5,0.4,-,6.43
+"336César MontesAlmeria, 29, D(C)","César Montes Almeria, 29, D(C)",21,1792,-,-,5,-,0.6,77.7,2.9,-,6.43
+"337Largie RamazaniAlmeria, 25, AM(LR),FW","Largie Ramazani Almeria, 25, AM(LR),FW",16(13),1561,3,5,7,2,1.4,64.4,0.2,2,6.43
+"338Andrés GuardadoReal Betis, 39, D(L),M(CL)","Andrés Guardado Real Betis, 39, D(L),M(CL)",4(8),443,-,-,2,-,0.4,87.0,0.3,-,6.42
+"339Óscar RodríguezGetafe, 27, AM(CLR),FW","Óscar Rodríguez Getafe, 27, AM(CLR),FW",9(15),965,2,1,9,-,1.4,77.4,0.4,1,6.42
+"340Ricardo VisusReal Betis, 25, D(C)","Ricardo Visus Real Betis, 25, D(C)",1(2),166,-,-,-,-,-,82.0,0.7,-,6.42
+"341Samu AghehowaDeportivo Alaves, 21, FW","Samu Aghehowa Deportivo Alaves, 21, FW",21(13),1922,8,1,6,-,1.9,72.5,1.8,1,6.42
+"342Assane DiaoReal Betis, 20, AM(LR)","Assane Diao Real Betis, 20, AM(LR)",13(5),1054,2,-,4,-,1.2,78.0,0.9,-,6.42
+"343Gerard GumbauGranada, 31, M(C)","Gerard Gumbau Granada, 31, M(C)",31(4),2685,-,3,12,-,1.3,77.5,0.7,-,6.42
+"344Jon MoncayolaOsasuna, 27, D(R),M(CR)","Jon Moncayola Osasuna, 27, D(R),M(CR)",21(12),1803,1,3,2,1,0.5,81.6,0.5,-,6.42
+"345Darwin MachísCadiz, 33, AM(LR)","Darwin Machís Cadiz, 33, AM(LR)",10(11),785,4,-,-,1,1.0,71.7,0.2,-,6.41
+"346Carles PérezCelta Vigo, 28, M(CR),FW","Carles Pérez Celta Vigo, 28, M(CR),FW",7(9),771,1,1,3,-,1.5,81.8,0.3,1,6.41
+"347Omar AldereteGetafe, 29, D(C)","Omar Alderete Getafe, 29, D(C)",25(7),2197,-,1,8,1,0.8,65.1,1.7,1,6.41
+"348Abner ViníciusReal Betis, 25, D(L),M(L)","Abner Vinícius Real Betis, 25, D(L),M(L)",15(8),1398,-,1,3,-,0.2,81.0,0.6,-,6.41
+"349Roger MartíCadiz, 35, FW","Roger Martí Cadiz, 35, FW",18(5),1369,2,3,3,-,1.4,67.8,0.8,2,6.41
+"350Djibril SowSevilla, 29, M(C)","Djibril Sow Sevilla, 29, M(C)",18(6),1470,1,1,5,-,0.8,85.8,0.6,-,6.41
+"351Cyle LarinMallorca, 31, AM(CLR),FW","Cyle Larin Mallorca, 31, AM(CLR),FW",20(15),1827,3,2,8,-,2,64.7,2.4,-,6.41
+"352Chimy ÁvilaOsasuna, 32, AM(LR),FW","Chimy Ávila Osasuna, 32, AM(LR),FW",10(7),869,1,3,3,2,1.6,72.0,0.6,-,6.41
+"353Jon AramburuReal Sociedad, 23, D(R)","Jon Aramburu Real Sociedad, 23, D(R)",5(6),543,-,-,3,-,0.4,82.4,0.6,-,6.41
+"354Ianis HagiDeportivo Alaves, 27, AM(CLR)","Ianis Hagi Deportivo Alaves, 27, AM(CLR)",8(14),798,-,2,3,-,1.2,74.2,0.6,-,6.41
+"355Carlos FernándezReal Sociedad, 29, AM(C),FW","Carlos Fernández Real Sociedad, 29, AM(C),FW",6(5),408,2,1,3,-,0.8,53.7,1.5,-,6.4
+"356Étienne CapoueVillarreal, 37, D(C),M(CL)","Étienne Capoue Villarreal, 37, D(C),M(CL)",15(17),1443,1,1,8,-,0.4,86.8,0.7,-,6.4
+"357Fran BeltránCelta Vigo, 27, DMC","Fran Beltrán Celta Vigo, 27, DMC",28(5),2437,-,-,2,-,0.6,87.4,0.4,-,6.4
+"358Hugo SoteloCelta Vigo, 22, M(C)","Hugo Sotelo Celta Vigo, 22, M(C)",8(9),721,-,1,1,-,0.5,91.5,0.1,1,6.4
+"359Paco SanzAlmeria, 21, Defender","Paco Sanz Almeria, 21, Defender",0(1),23,-,-,-,-,-,70.0,1.0,-,6.4
+"360Jaime MataGetafe, 37, AM(L),FW","Jaime Mata Getafe, 37, AM(L),FW",22(13),1794,5,1,8,1,0.9,68.9,1.5,2,6.4
+"361Iñaki PeñaBarcelona, 27, GK","Iñaki Peña Barcelona, 27, GK",10,900,-,-,-,-,-,84.9,0.4,-,6.4
+"362Arsen ZakharyanReal Sociedad, 22, M(CLR)","Arsen Zakharyan Real Sociedad, 22, M(CLR)",15(14),1231,1,2,1,-,1.1,77.1,0.4,-,6.4
+"363JuanmiCadiz, 32, AM(CLR),FW","Juanmi Cadiz, 32, AM(CLR),FW",9(7),875,3,1,3,-,0.9,80.2,0.5,1,6.4
+"364Abdón PratsMallorca, 33, FW","Abdón Prats Mallorca, 33, FW",11(23),1259,6,1,3,-,1,56.7,1.2,-,6.4
+"365Fernando MartínezAlmeria, 35, GK","Fernando Martínez Almeria, 35, GK",4,360,-,-,-,-,-,62.6,0.5,-,6.4
+"366Miguel CrespoRayo Vallecano, 29, M(C)","Miguel Crespo Rayo Vallecano, 29, M(C)",4(11),521,-,-,4,-,0.2,85.5,0.7,-,6.39
+"367Oriol RomeuBarcelona, 34, DMC","Oriol Romeu Barcelona, 34, DMC",11(17),932,-,1,4,-,0.4,89.5,0.5,-,6.39
+"368Máximo PerroneLas Palmas, 23, DMC","Máximo Perrone Las Palmas, 23, DMC",20(9),1631,-,-,6,-,0.2,90.4,0.2,-,6.39
+"369Abde EzzalzouliBarcelona, 24, AM(L)","Abde Ezzalzouli Barcelona, 24, AM(L)",0(2),67,-,-,-,-,2,69.2,0.5,-,6.39
+"370Pepe ReinaVillarreal, 43, GK","Pepe Reina Villarreal, 43, GK",5,183,-,-,2,1,-,78.9,0.2,-,6.39
+"371Antonio SánchezMallorca, 29, D(R),M(CR)","Antonio Sánchez Mallorca, 29, D(R),M(CR)",21(8),1465,3,1,3,-,0.8,73.5,0.2,-,6.39
+"372Rominigue KouaméCadiz, 29, DMC","Rominigue Kouamé Cadiz, 29, DMC",9(7),821,-,-,2,-,0.3,86.3,1.2,-,6.39
+"373Jaume CostaMallorca, 38, D(LR),M(L)","Jaume Costa Mallorca, 38, D(LR),M(L)",19(11),1684,-,1,7,-,0.2,77.3,0.5,-,6.39
+"374Jordi MartínGetafe, 25, M(L)","Jordi Martín Getafe, 25, M(L)",5(8),576,-,-,1,-,0.5,67.8,0.8,-,6.38
+"375Unai GómezAthletic Club, 22, AM(CL),FW","Unai Gómez Athletic Club, 22, AM(CL),FW",9(16),870,2,-,1,-,0.6,79.9,0.5,-,6.38
+"376Dimitri FoulquierValencia, 33, D(CLR),M(R)","Dimitri Foulquier Valencia, 33, D(CLR),M(R)",19(14),1835,-,-,3,-,0.2,72.9,0.3,-,6.38
+"377Álvaro CarrerasGranada, 23, D(CL),M(L)","Álvaro Carreras Granada, 23, D(CL),M(L)",5(8),474,-,-,1,-,0.5,78.5,0.8,-,6.38
+"378Tasos DouvikasCelta Vigo, 26, AM(R),FW","Tasos Douvikas Celta Vigo, 26, AM(R),FW",7(25),886,7,1,2,-,0.8,63.4,1.1,1,6.38
+"379Aiham OusouCadiz, 26, D(C)","Aiham Ousou Cadiz, 26, D(C)",5(1),430,-,-,-,-,0.3,78.8,1.3,-,6.37
+"380Javi MuñozLas Palmas, 31, M(CR)","Javi Muñoz Las Palmas, 31, M(CR)",30(7),2648,2,3,6,-,1.0,81.9,0.2,-,6.37
+"381Kevin VázquezCelta Vigo, 33, D(R),M(R)","Kevin Vázquez Celta Vigo, 33, D(R),M(R)",10(2),706,-,-,3,-,0.2,74.9,0.8,-,6.37
+"382Marc CardonaLas Palmas, 30, FW","Marc Cardona Las Palmas, 30, FW",6(20),724,4,1,4,-,0.8,76.1,0.3,-,6.37
+"383Sergi AltimiraReal Betis, 24, DMC","Sergi Altimira Real Betis, 24, DMC",6(8),566,1,-,1,-,0.5,90.8,0.1,1,6.37
+"384Giuliano SimeoneDeportivo Alaves, 23, AM(LR)","Giuliano Simeone Deportivo Alaves, 23, AM(LR)",6(8),630,1,2,1,-,1.1,72.1,0.1,-,6.36
+"385William CarvalhoReal Betis, 34, M(C)","William Carvalho Real Betis, 34, M(C)",4(18),673,1,3,2,-,0.4,89.2,0.4,-,6.36
+"386Aïssa MandiVillarreal, 34, D(CLR)","Aïssa Mandi Villarreal, 34, D(CLR)",12(4),1113,1,-,3,-,0.3,91.8,0.8,-,6.35
+"387Óscar TrejoRayo Vallecano, 38, M(CLR),FW","Óscar Trejo Rayo Vallecano, 38, M(CLR),FW",19(12),1385,-,-,4,1,0.6,84.9,0.5,-,6.35
+"388Pep ChavarríaRayo Vallecano, 28, D(L),M(L)","Pep Chavarría Rayo Vallecano, 28, D(L),M(L)",13(10),1166,1,1,3,1,0.5,80.0,0.6,1,6.35
+"389Iker MuniainAthletic Club, 33, AM(CLR)","Iker Muniain Athletic Club, 33, AM(CLR)",5(15),588,2,-,1,-,0.7,88.9,0.1,-,6.35
+"390Stefan MitrovicGetafe, 35, D(C)","Stefan Mitrovic Getafe, 35, D(C)",9(2),701,1,-,3,-,0.1,76.1,1.1,-,6.35
+"391Álvaro OdriozolaReal Sociedad, 30, D(R)","Álvaro Odriozola Real Sociedad, 30, D(R)",6(3),398,-,-,-,-,-,88.8,0.1,-,6.35
+"392Diadié SamassékouCadiz, 30, DMC","Diadié Samassékou Cadiz, 30, DMC",0(4),87,-,-,-,-,0.3,95.7,0.8,-,6.35
+"393Rubén SobrinoCadiz, 33, AM(CLR),FW","Rubén Sobrino Cadiz, 33, AM(CLR),FW",18(14),1649,-,1,8,1,0.7,76.1,0.7,-,6.34
+"394André FerreiraGranada, 29, GK","André Ferreira Granada, 29, GK",14(1),1339,-,-,1,-,-,66.3,0.5,-,6.34
+"395Iddrisu BabaAlmeria, 30, DMC","Iddrisu Baba Almeria, 30, DMC",14(11),1428,-,-,5,-,0.3,83.6,1.2,-,6.34
+"396José ArnáizOsasuna, 31, AM(L),FW","José Arnáiz Osasuna, 31, AM(L),FW",9(17),924,2,1,3,-,1.1,81.0,0.4,-,6.34
+"397Diego MéndezRayo Vallecano, 22, Midfielder","Diego Méndez Rayo Vallecano, 22, Midfielder",0(1),4,-,-,-,-,-,100.0,1,-,6.34
+"398Rubén IranzoValencia, 23, Defender","Rubén Iranzo Valencia, 23, Defender",0(1),10,-,-,-,-,-,100.0,-,-,6.34
+"399Álex FernándezCadiz, 33, M(CL),FW","Álex Fernández Cadiz, 33, M(CL),FW",14(12),1286,-,1,3,-,0.3,86.1,0.5,-,6.34
+"400Omar MascarellMallorca, 33, D(C),DMC","Omar Mascarell Mallorca, 33, D(C),DMC",18(11),1574,-,-,6,1,0.2,82.2,1.1,-,6.34
+"401Carlos NevaGranada, 29, D(L),M(L)","Carlos Neva Granada, 29, D(L),M(L)",36,3154,-,2,4,-,0.1,76.3,0.8,-,6.34
+"402Raúl GarcíaOsasuna, 25, FW","Raúl García Osasuna, 25, FW",13(22),1351,6,1,4,-,0.9,64.1,1.4,-,6.33
+"403Raúl de TomásRayo Vallecano, 31, FW","Raúl de Tomás Rayo Vallecano, 31, FW",15(10),1280,1,2,5,-,1.6,79.6,1,-,6.33
+"404Franco CerviCelta Vigo, 31, D(L),M(CLR)","Franco Cervi Celta Vigo, 31, D(L),M(CLR)",5(12),539,-,1,2,-,0.5,84.6,0.4,-,6.33
+"405Jorge PascualVillarreal, 23, Forward","Jorge Pascual Villarreal, 23, Forward",0(1),13,-,-,-,-,-,80.0,-,-,6.33
+"406Jesús VázquezValencia, 23, D(L),M(L)","Jesús Vázquez Valencia, 23, D(L),M(L)",6(14),705,1,-,1,-,0.4,67.0,0.6,-,6.33
+"407Javier ManquilloCelta Vigo, 31, D(CLR),M(R)","Javier Manquillo Celta Vigo, 31, D(CLR),M(R)",10(2),747,-,1,3,-,0.1,84.5,1.1,-,6.33
+"408Abde EzzalzouliReal Betis, 24, AM(L)","Abde Ezzalzouli Real Betis, 24, AM(L)",6(20),857,1,-,1,-,1.3,72.5,0.9,-,6.33
+"409Ricard SánchezGranada, 26, D(R),M(R)","Ricard Sánchez Granada, 26, D(R),M(R)",25(8),2300,3,-,8,-,0.4,75.7,0.6,-,6.33
+"410Peter FedericoValencia, 23, M(R)","Peter Federico Valencia, 23, M(R)",5(10),646,-,-,1,-,1.1,69.9,0.7,-,6.33
+"411Gonzalo EscalanteCadiz, 33, DMC","Gonzalo Escalante Cadiz, 33, DMC",18(7),1705,1,2,2,1,0.6,76.8,1.2,-,6.32
+"412Marc GuiuBarcelona, 20, FW","Marc Guiu Barcelona, 20, FW",1(2),73,1,-,1,-,1.3,100.0,0.3,-,6.32
+"413Sergio CamelloRayo Vallecano, 25, FW","Sergio Camello Rayo Vallecano, 25, FW",20(11),1671,3,1,3,-,1.1,73.6,0.5,1,6.32
+"414Luca de la TorreCelta Vigo, 27, M(CLR)","Luca de la Torre Celta Vigo, 27, M(CLR)",22(9),1959,1,4,2,1,0.8,83.3,0.5,-,6.32
+"415Luis HernándezCadiz, 37, D(CR)","Luis Hernández Cadiz, 37, D(CR)",8(1),722,1,-,4,-,0.1,78.5,1,1,6.32
+"416Jorge MeréCadiz, 29, D(C)","Jorge Meré Cadiz, 29, D(C)",8(2),678,-,-,-,-,0.4,73.3,0.9,-,6.32
+"417Diego HormigoSevilla, 23, Defender","Diego Hormigo Sevilla, 23, Defender",0(1),36,-,-,-,-,-,66.7,-,-,6.32
+"418JuanpeGirona, 34, D(C)","Juanpe Girona, 34, D(C)",6(11),738,-,-,4,-,0.2,91.1,1.2,-,6.32
+"419Asier VillalibreAthletic Club, 28, FW","Asier Villalibre Athletic Club, 28, FW",4(14),507,2,1,-,-,0.7,72.1,1.2,-,6.32
+"420Pablo IbáñezOsasuna, 27, DMC","Pablo Ibáñez Osasuna, 27, DMC",12(21),1143,1,2,5,-,0.8,77.6,1.2,1,6.32
+"421Luka RomeroAlmeria, 21, AM(R)","Luka Romero Almeria, 21, AM(R)",5(8),437,3,-,2,-,0.6,93.1,0.2,1,6.31
+"422Randy NtekaRayo Vallecano, 28, AM(C),FW","Randy Nteka Rayo Vallecano, 28, AM(C),FW",3(13),563,1,1,2,-,0.9,74.0,1.7,-,6.31
+"423Hugo GuillamónValencia, 26, D(C),DMC","Hugo Guillamón Valencia, 26, D(C),DMC",12(14),1307,1,-,6,-,0.1,82.1,0.6,-,6.31
+"424Dani GarcíaAthletic Club, 35, DMC","Dani García Athletic Club, 35, DMC",7(10),739,1,-,4,-,0.4,84.2,0.4,-,6.31
+"425RodriReal Betis, 25, AM(CLR)","Rodri Real Betis, 25, AM(CLR)",9(20),1043,-,-,-,-,0.6,82.8,-,-,6.31
+"426Iván AlejoCadiz, 31, AM(R)","Iván Alejo Cadiz, 31, AM(R)",21(9),1705,-,2,17,-,0.4,64.1,0.5,-,6.31
+"427Selim AmallahValencia, 29, AM(CL),FW","Selim Amallah Valencia, 29, AM(CL),FW",7(13),598,-,1,3,1,0.6,75.0,0.6,-,6.3
+"428José Ángel CarmonaGetafe, 24, D(CLR),M(R)","José Ángel Carmona Getafe, 24, D(CLR),M(R)",15(15),1316,1,1,9,-,0.4,76.4,0.6,-,6.3
+"429Iván VillarCelta Vigo, 28, GK","Iván Villar Celta Vigo, 28, GK",13,1016,-,-,-,2,-,60.8,0.2,1,6.3
+"430Siebe Van der HeydenMallorca, 27, D(C)","Siebe Van der Heyden Mallorca, 27, D(C)",5(2),288,-,-,2,1,0.3,67.4,1.1,-,6.3
+"431Jorge de FrutosRayo Vallecano, 29, AM(LR),FW","Jorge de Frutos Rayo Vallecano, 29, AM(LR),FW",14(22),1543,2,-,1,-,0.8,76.4,0.4,-,6.3
+"432Adu AresAthletic Club, 24, Forward","Adu Ares Athletic Club, 24, Forward",2(10),258,-,-,2,-,0.3,84.9,0.2,-,6.3
+"433Sergio RodelasGranada, 21, Forward","Sergio Rodelas Granada, 21, Forward",2(1),123,-,1,-,-,0.7,92.3,-,-,6.3
+"434Javi GalánAtletico, 31, D(L),M(L)","Javi Galán Atletico, 31, D(L),M(L)",0(5),84,-,-,1,-,-,77.8,0.6,-,6.29
+"435Famara DiédhiouGranada, 33, FW","Famara Diédhiou Granada, 33, FW",0(8),82,-,1,1,-,0.6,50.0,1.5,-,6.29
+"436Andrei RatiuRayo Vallecano, 27, D(R),M(R)","Andrei Ratiu Rayo Vallecano, 27, D(R),M(R)",6(6),627,-,-,1,-,0.5,80.3,0.5,-,6.29
+"437Alberto RiscoGetafe, 20, Midfielder","Alberto Risco Getafe, 20, Midfielder",1(3),135,-,-,-,-,0.5,83.7,-,-,6.29
+"438MarcãoSevilla, 29, D(C)","Marcão Sevilla, 29, D(C)",3(4),354,-,-,2,-,-,89.7,0.9,-,6.29
+"439Nacho VidalOsasuna, 31, D(R)","Nacho Vidal Osasuna, 31, D(R)",0(7),92,1,-,-,-,0.4,64.9,0.3,-,6.29
+"440Ramon TerratsVillarreal, 25, M(CLR)","Ramon Terrats Villarreal, 25, M(CLR)",6(13),782,-,2,4,-,0.4,86.4,0.3,-,6.28
+"441Jon MagunazelaiaReal Sociedad, 24, Midfielder","Jon Magunazelaia Real Sociedad, 24, Midfielder",1(4),119,-,-,-,-,0.8,71.4,0.2,-,6.28
+"442Juan CruzOsasuna, 33, D(CL)","Juan Cruz Osasuna, 33, D(CL)",18(8),1663,-,1,3,-,0.1,81.5,0.8,-,6.28
+"443Marc BartraReal Betis, 35, D(CR),DMC","Marc Bartra Real Betis, 35, D(CR),DMC",3,226,-,-,1,-,1.0,87.1,1.3,-,6.28
+"444Marvin ParkLas Palmas, 25, D(R),M(R)","Marvin Park Las Palmas, 25, D(R),M(R)",17(14),1854,-,2,5,-,0.5,79.8,0.5,1,6.28
+"445Dani CeballosReal Madrid, 29, M(CL)","Dani Ceballos Real Madrid, 29, M(CL)",5(15),586,-,2,2,-,0.4,91.1,0.1,-,6.28
+"446Yellu SantiagoGetafe, 21, DMC","Yellu Santiago Getafe, 21, DMC",8(6),657,1,-,4,-,0.4,78.7,0.4,-,6.27
+"447Joseba ZaldúaCadiz, 33, D(R)","Joseba Zaldúa Cadiz, 33, D(R)",9(4),710,-,-,3,-,0.1,70.4,0.8,-,6.27
+"448André SilvaReal Sociedad, 30, FW","André Silva Real Sociedad, 30, FW",9(10),729,3,-,1,-,0.8,81.9,0.6,-,6.27
+"449ChumiAlmeria, 27, D(CR)","Chumi Almeria, 27, D(CR)",26(5),2434,-,1,4,-,0.2,86.6,1.5,-,6.27
+"450Theo CorbeanuGranada, 23, AM(LR),FW","Theo Corbeanu Granada, 23, AM(LR),FW",2(7),197,1,-,2,-,0.6,68.8,0.4,-,6.26
+"451José Luis MoralesVillarreal, 38, D(R),M(CLR),FW","José Luis Morales Villarreal, 38, D(R),M(CLR),FW",8(21),1043,7,-,-,-,0.9,76.1,0.1,1,6.26
+"452KaikyAlmeria, 22, D(C)","Kaiky Almeria, 22, D(C)",5(3),520,1,-,2,-,0.4,82.8,1.4,-,6.26
+"453Rafa MirSevilla, 28, AM(LR),FW","Rafa Mir Sevilla, 28, AM(LR),FW",3(12),384,2,-,1,-,1,70.6,0.8,-,6.26
+"454Denis SuárezVillarreal, 32, M(CLR)","Denis Suárez Villarreal, 32, M(CLR)",1(3),131,-,-,-,-,0.3,85.4,-,-,6.26
+"455Federico San EmeterioCadiz, 29, DMC","Federico San Emeterio Cadiz, 29, DMC",3(1),155,1,-,1,1,0.3,84.0,0.8,1,6.26
+"456Jon MartínReal Sociedad, 20, D(C)","Jon Martín Real Sociedad, 20, D(C)",0(1),23,-,-,-,-,-,71.4,1,-,6.26
+"457Paul AkouokouReal Betis, 28, DMC","Paul Akouokou Real Betis, 28, DMC",0(2),26,-,-,-,-,-,94.1,-,-,6.26
+"458Rachad FettalAlmeria, 21, Forward","Rachad Fettal Almeria, 21, Forward",0(1),16,-,-,-,-,1,80.0,1,-,6.26
+"459Abde RebbachDeportivo Alaves, 27, AM(L)","Abde Rebbach Deportivo Alaves, 27, AM(L)",6(17),716,1,-,1,-,0.7,66.9,0.3,-,6.26
+"460Kamil PiatkowskiGranada, 25, D(C)","Kamil Piatkowski Granada, 25, D(C)",6(3),506,-,-,1,1,0.4,86.3,1.2,-,6.26
+"461Ilaix MoribaGetafe, 23, DMC","Ilaix Moriba Getafe, 23, DMC",8(6),608,-,2,3,1,0.3,74.1,0.8,1,6.25
+"462Roman YaremchukValencia, 30, FW","Roman Yaremchuk Valencia, 30, FW",11(14),928,3,-,2,-,0.7,69.5,1.1,1,6.25
+"463PortuGetafe, 33, M(CLR),FW","Portu Getafe, 33, M(CLR),FW",0(3),95,-,-,1,-,0.3,76.2,0.3,-,6.25
+"464Marc CasadóBarcelona, 22, DMC","Marc Casadó Barcelona, 22, DMC",0(2),13,-,-,-,-,-,100.0,-,-,6.25
+"465Mario MartínReal Madrid, 22, M(C)","Mario Martín Real Madrid, 22, M(C)",0(2),16,-,-,-,-,-,80.0,-,-,6.25
+"466Jon OlasagastiReal Sociedad, 25, DMC","Jon Olasagasti Real Sociedad, 25, DMC",2(12),350,-,-,3,-,0.6,75.6,0.5,-,6.25
+"467Raúl TorrenteGranada, 24, D(C)","Raúl Torrente Granada, 24, D(C)",14(3),1252,-,-,4,-,0.2,79.4,1.3,-,6.25
+"468Mauro ArambarriGetafe, 30, M(C)","Mauro Arambarri Getafe, 30, M(C)",3(4),338,-,-,2,-,1.3,82.2,0.7,-,6.24
+"469Carles AleñáGetafe, 28, AM(CLR)","Carles Aleñá Getafe, 28, AM(CLR)",11(19),1013,1,1,6,-,0.5,81.5,0.4,-,6.24
+"470Adrià AltiVillarreal, 25, D(R),M(R)","Adrià Alti Villarreal, 25, D(R),M(R)",10(1),780,-,-,3,-,0.1,83.5,0.2,-,6.24
+"471Gonzalo MeleroAlmeria, 32, M(C),FW","Gonzalo Melero Almeria, 32, M(C),FW",10(18),1096,1,1,3,-,0.5,82.9,0.7,-,6.24
+"472Thomas LemarAtletico, 30, AM(CLR)","Thomas Lemar Atletico, 30, AM(CLR)",3,166,-,-,-,-,0.7,89.6,-,-,6.23
+"473Urko González de ZárateReal Sociedad, 25, DMC","Urko González de Zárate Real Sociedad, 25, DMC",2(3),155,-,-,1,-,0.4,79.8,1,-,6.23
+"474Kike PérezRayo Vallecano, 29, M(C)","Kike Pérez Rayo Vallecano, 29, M(C)",9(15),831,1,-,7,-,0.5,79.8,0.5,-,6.23
+"475Raúl GarcíaAthletic Club, 39, M(CLR),FW","Raúl García Athletic Club, 39, M(CLR),FW",1(19),404,1,-,4,-,0.5,61.2,1.4,-,6.23
+"476BebéRayo Vallecano, 35, AM(LR),FW","Bebé Rayo Vallecano, 35, AM(LR),FW",0(19),195,2,-,1,-,0.8,72.1,0.1,-,6.23
+"477Faitout MaouassaGranada, 27, D(L),M(LR)","Faitout Maouassa Granada, 27, D(L),M(LR)",2(4),245,-,1,-,-,0.8,65.5,0.5,-,6.23
+"478Eric GarcíaBarcelona, 25, D(CR),DMC","Eric García Barcelona, 25, D(CR),DMC",0(2),56,-,-,1,-,0.5,95.5,0.5,-,6.23
+"479Brian OcampoCadiz, 26, AM(L)","Brian Ocampo Cadiz, 26, AM(L)",1(12),238,1,-,2,-,0.4,68.2,0.3,-,6.22
+"480Tadeo AllendeCelta Vigo, 27, AM(LR),FW","Tadeo Allende Celta Vigo, 27, AM(LR),FW",2(8),332,1,-,1,-,0.8,65.9,0.5,-,6.22
+"481Álvaro LemosLas Palmas, 33, D(R)","Álvaro Lemos Las Palmas, 33, D(R)",3(1),252,-,-,1,-,0.3,81.4,1.3,-,6.22
+"482Alberto MaríValencia, 24, Forward","Alberto Marí Valencia, 24, Forward",2(14),263,1,1,-,-,0.4,62.7,0.5,1,6.22
+"483Joaquín PanichelliDeportivo Alaves, 23, FW","Joaquín Panichelli Deportivo Alaves, 23, FW",2(6),222,-,-,-,-,1.1,63.6,2.1,-,6.21
+"484Borja VázquezCadiz, 21, Forward","Borja Vázquez Cadiz, 21, Forward",0(1),3,-,-,-,-,-,100.0,-,-,6.21
+"485Houboulang MendesAlmeria, 27, D(CR)","Houboulang Mendes Almeria, 27, D(CR)",4(3),396,-,-,-,-,0.1,73.7,1,-,6.21
+"486Sergi GuardiolaCadiz, 34, FW","Sergi Guardiola Cadiz, 34, FW",1(21),477,1,1,1,-,0.6,75.9,0.2,-,6.21
+"487Omenuke MfuluLas Palmas, 32, M(C)","Omenuke Mfulu Las Palmas, 32, M(C)",2(4),79,-,-,1,-,-,88.3,0.5,-,6.21
+"488Valery FernándezGirona, 26, D(R),M(L)","Valery Fernández Girona, 26, D(R),M(L)",2(25),488,2,-,1,-,0.2,89.4,0.1,-,6.2
+"489Adnan JanuzajSevilla, 31, AM(CLR)","Adnan Januzaj Sevilla, 31, AM(CLR)",0(8),187,-,-,-,-,0.8,83.1,0.4,-,6.2
+"490Javi LlabrésMallorca, 23, Forward","Javi Llabrés Mallorca, 23, Forward",1(15),235,1,-,1,-,0.6,75.0,0.1,-,6.2
+"491Maxi GómezCadiz, 29, FW","Maxi Gómez Cadiz, 29, FW",12(19),1159,-,-,2,-,0.5,55.8,2.3,-,6.2
+"492José CallejónGranada, 39, M(LR),FW","José Callejón Granada, 39, M(LR),FW",7(18),799,-,1,2,-,0.5,82.4,0.3,-,6.19
+"493Carlos RomeroVillarreal, 24, D(L)","Carlos Romero Villarreal, 24, D(L)",2(5),260,-,-,1,-,0.3,73.1,0.3,-,6.19
+"494Amath NdiayeMallorca, 29, AM(LR),FW","Amath Ndiaye Mallorca, 29, AM(LR),FW",3(12),389,-,-,2,-,0.8,70.2,0.4,-,6.19
+"495Peru NolaskoainAthletic Club, 27, Midfielder","Peru Nolaskoain Athletic Club, 27, Midfielder",0(2),8,-,-,-,-,-,62.5,1,-,6.19
+"496Ibrahima KébéGirona, 25, Midfielder","Ibrahima Kébé Girona, 25, Midfielder",0(2),7,-,-,1,-,-,62.5,1.5,-,6.19
+"497MareziAlmeria, 22, FW","Marezi Almeria, 22, FW",2(9),303,1,-,-,-,0.5,64.2,1.3,-,6.18
+"498Unai GarcíaOsasuna, 34, D(C)","Unai García Osasuna, 34, D(C)",7(3),560,1,-,4,1,0.2,80.4,0.4,-,6.18
+"499Borja IglesiasReal Betis, 33, FW","Borja Iglesias Real Betis, 33, FW",4(7),405,-,1,2,-,0.9,83.0,0.5,-,6.18
+"500Iñaki GonzálezLas Palmas, 21, Midfielder","Iñaki González Las Palmas, 21, Midfielder",0(1),4,-,-,-,-,-,100.0,-,-,6.18
+"501Manu TriguerosVillarreal, 34, M(CLR),FW","Manu Trigueros Villarreal, 34, M(CLR),FW",2(12),300,-,-,-,-,0.4,86.9,0.3,-,6.18
+"502Kike BarjaOsasuna, 29, AM(LR)","Kike Barja Osasuna, 29, AM(LR)",3(13),295,-,-,3,-,0.3,86.7,0.2,-,6.18
+"503Pablo TorreGirona, 23, AM(C)","Pablo Torre Girona, 23, AM(C)",4(22),691,-,2,1,-,0.5,84.8,-,-,6.17
+"504Sory KabaLas Palmas, 30, FW","Sory Kaba Las Palmas, 30, FW",9(8),721,1,1,2,-,0.8,70.1,1.9,-,6.17
+"505Eric CurbeloLas Palmas, 32, Defender","Eric Curbelo Las Palmas, 32, Defender",1(1),101,-,-,-,-,-,96.6,-,-,6.17
+"506Gonzalo GarcíaReal Madrid, 22, FW","Gonzalo García Real Madrid, 22, FW",0(2),17,-,-,-,-,0.5,57.1,-,-,6.17
+"507Yoel LagoCelta Vigo, 22, D(C)","Yoel Lago Celta Vigo, 22, D(C)",1,90,-,-,-,-,-,95.3,-,-,6.17
+"508Jhon SolísGirona, 21, DMC","Jhon Solís Girona, 21, DMC",2(16),369,-,-,-,-,0.5,84.8,0.3,-,6.17
+"509Chimy ÁvilaReal Betis, 32, AM(LR),FW","Chimy Ávila Real Betis, 32, AM(LR),FW",4(2),301,1,-,2,1,1.5,70.5,0.7,-,6.17
+"510Xeber AlkainDeportivo Alaves, 28, Forward","Xeber Alkain Deportivo Alaves, 28, Forward",3(7),299,-,-,1,-,0.5,75.0,0.2,-,6.17
+"511Radamel FalcaoRayo Vallecano, 40, FW","Radamel Falcao Rayo Vallecano, 40, FW",3(20),395,1,-,4,-,0.7,83.2,0.7,-,6.16
+"512Pablo SáenzGranada, 24, Forward","Pablo Sáenz Granada, 24, Forward",0(1),18,-,-,-,-,-,66.7,-,-,6.16
+"513Arthur VermeerenAtletico, 21, DMC","Arthur Vermeeren Atletico, 21, DMC",2(3),160,-,-,2,-,-,84.3,0.2,-,6.16
+"514Carlos DotorCelta Vigo, 25, M(C)","Carlos Dotor Celta Vigo, 25, M(C)",7(10),704,-,-,2,-,0.2,84.8,0.4,-,6.16
+"515Jesús CoronaSevilla, 33, D(R),M(CLR),FW","Jesús Corona Sevilla, 33, D(R),M(CLR),FW",0(2),17,-,-,-,-,-,75.0,-,-,6.15
+"516Salvi SánchezRayo Vallecano, 35, AM(R)","Salvi Sánchez Rayo Vallecano, 35, AM(R)",0(1),27,-,-,-,-,-,83.3,-,-,6.15
+"517Óscar MelendoGranada, 28, AM(CLR),FW","Óscar Melendo Granada, 28, AM(CLR),FW",15(11),1128,-,-,2,-,0.2,82.0,0.2,-,6.15
+"518Joan JordánSevilla, 31, M(C)","Joan Jordán Sevilla, 31, M(C)",5(4),381,-,-,1,-,0.7,88.2,0.4,-,6.15
+"519Hannibal MejbriSevilla, 23, AM(CL)","Hannibal Mejbri Sevilla, 23, AM(CL)",1(5),101,-,-,2,-,0.2,83.3,-,-,6.15
+"520Álex PozoAlmeria, 27, D(R),M(R)","Álex Pozo Almeria, 27, D(R),M(R)",9(12),970,-,-,3,-,0.2,76.8,0.2,-,6.14
+"521Vitor RoqueBarcelona, 21, FW","Vitor Roque Barcelona, 21, FW",2(12),320,2,-,2,1,0.9,76.6,0.2,-,6.14
+"522Benito RamírezLas Palmas, 30, Midfielder","Benito Ramírez Las Palmas, 30, Midfielder",2(18),369,1,1,-,-,0.5,80.1,0.1,-,6.14
+"523Cédric BakambuReal Betis, 35, AM(LR),FW","Cédric Bakambu Real Betis, 35, AM(LR),FW",2(2),195,-,-,1,-,1,66.7,0.8,-,6.14
+"524Marc MartínezGranada, 36, Goalkeeper","Marc Martínez Granada, 36, Goalkeeper",3,270,-,-,-,-,-,75.3,-,-,6.14
+"525Asier OsambelaOsasuna, 21, Midfielder","Asier Osambela Osasuna, 21, Midfielder",0(1),9,-,-,-,-,-,40,2,-,6.14
+"526César TárregaValencia, 24, D(C)","César Tárrega Valencia, 24, D(C)",0(1),7,-,-,-,-,-,100,-,-,6.14
+"527José CampañaLas Palmas, 32, M(CLR)","José Campaña Las Palmas, 32, M(CLR)",1(7),166,-,-,-,-,0.1,86.5,0.5,-,6.14
+"528Álex SolaReal Sociedad, 26, D(R),M(LR)","Álex Sola Real Sociedad, 26, D(R),M(LR)",0(2),28,-,-,-,-,-,70,1,-,6.14
+"529Fabrizio AngileriGetafe, 32, D(CL),M(L)","Fabrizio Angileri Getafe, 32, D(CL),M(L)",3(9),163,-,-,2,1,-,66.3,0.5,-,6.13
+"530Iñigo ArguibideOsasuna, 21, Defender","Iñigo Arguibide Osasuna, 21, Defender",0(1),16,-,-,-,-,-,-,1,-,6.13
+"531Stefan LekovicVillarreal, 22, D(C)","Stefan Lekovic Villarreal, 22, D(C)",0(1),28,-,-,-,-,-,85.7,-,-,6.13
+"532Antonio PuertasGranada, 34, M(LR)","Antonio Puertas Granada, 34, M(LR)",7(21),721,-,2,3,1,0.7,77.8,0.5,-,6.13
+"533Matías ArezoGranada, 23, FW","Matías Arezo Granada, 23, FW",3(11),360,-,-,1,-,0.9,64.9,0.8,-,6.12
+"534Tanguy NianzouSevilla, 23, D(C)","Tanguy Nianzou Sevilla, 23, D(C)",3(5),315,-,-,3,-,0.1,88.7,0.5,1,6.12
+"535Hugo GonzálezValencia, 23, Forward","Hugo González Valencia, 23, Forward",0(9),80,-,1,-,-,0.1,70.0,-,-,6.12
+"536Daley SinkgravenLas Palmas, 30, D(L),M(CL)","Daley Sinkgraven Las Palmas, 30, D(L),M(CL)",6(4),377,-,-,-,1,-,87.3,0.5,-,6.11
+"537Mariano DíazSevilla, 32, FW","Mariano Díaz Sevilla, 32, FW",2(7),240,-,-,1,-,1.6,68.6,1,-,6.11
+"538Juan CruzReal Betis, 26, M(LR)","Juan Cruz Real Betis, 26, M(LR)",0(5),71,-,-,-,-,0.4,75.0,0.2,-,6.11
+"539Cristian HerreraLas Palmas, 35, FW","Cristian Herrera Las Palmas, 35, FW",1(7),159,1,-,1,-,0.1,91.9,-,-,6.1
+"540Ansu FatiBarcelona, 23, AM(CL),FW","Ansu Fati Barcelona, 23, AM(CL),FW",0(3),47,-,-,-,-,2.3,85.2,0.3,-,6.1
+"541Darko BrasanacOsasuna, 34, M(CR)","Darko Brasanac Osasuna, 34, M(CR)",0(2),46,-,-,-,-,-,64.3,0.5,-,6.1
+"542Njegos PetrovicGranada, 26, DMC","Njegos Petrovic Granada, 26, DMC",0(10),149,-,-,-,-,0.2,84.6,0.2,-,6.1
+"543Álvaro NegredoCadiz, 40, FW","Álvaro Negredo Cadiz, 40, FW",0(7),48,-,-,-,-,0.4,52.9,0.4,-,6.1
+"544Mohamed-Ali ChoReal Sociedad, 22, AM(CR),FW","Mohamed-Ali Cho Real Sociedad, 22, AM(CR),FW",1(10),242,-,-,-,-,0.3,67.3,0.4,-,6.09
+"545Alberto DadieReal Sociedad, 23, Forward","Alberto Dadie Real Sociedad, 23, Forward",0(1),27,-,-,-,-,-,50.0,-,-,6.09
+"546Mamadou SyllaDeportivo Alaves, 32, AM(L),FW","Mamadou Sylla Deportivo Alaves, 32, AM(L),FW",0(2),16,-,-,-,-,-,42.9,1.5,-,6.09
+"547Fabio GonzálezLas Palmas, 29, Midfielder","Fabio González Las Palmas, 29, Midfielder",1(5),122,-,-,1,-,-,93.7,0.2,-,6.09
+"548Manu BuenoSevilla, 21, M(C)","Manu Bueno Sevilla, 21, M(C)",1(3),116,-,-,1,-,0.3,91.8,-,-,6.09
+"549Toni VillaGirona, 31, AM(CLR)","Toni Villa Girona, 31, AM(CLR)",0(2),11,-,-,-,-,0.5,87.5,-,-,6.09
+"550Jorge MorenoOsasuna, 24, Defender","Jorge Moreno Osasuna, 24, Defender",0(1),13,-,-,-,-,-,33.3,1,-,6.08
+"551Victor ParadaDeportivo Alaves, 24, D(CL)","Victor Parada Deportivo Alaves, 24, D(CL)",0(2),2,-,-,-,-,-,-,-,-,6.08
+"552Unai MarreroReal Sociedad, 24, GK","Unai Marrero Real Sociedad, 24, GK",1(1),141,-,-,-,-,-,57.5,-,-,6.07
+"553Domingos DuarteGetafe, 31, D(C)","Domingos Duarte Getafe, 31, D(C)",11(4),908,-,-,3,2,0.1,77.7,0.9,-,6.07
+"554Shon WeissmanGranada, 30, FW","Shon Weissman Granada, 30, FW",0(5),78,-,-,-,-,0.2,75,0.2,-,6.06
+"555Wilson ManafáGranada, 31, D(LR)","Wilson Manafá Granada, 31, D(LR)",3(1),241,-,-,1,-,0.3,76.5,0.5,-,6.06
+"556LázaroAlmeria, 24, AM(CLR),FW","Lázaro Almeria, 24, AM(CLR),FW",2(12),278,-,-,-,-,0.6,77.4,0.3,-,6.06
+"557José Mari MartínCadiz, 38, DMC","José Mari Martín Cadiz, 38, DMC",1(3),13,-,-,1,-,-,80,-,-,6.05
+"558Nico PazReal Madrid, 21, AM(CR),FW","Nico Paz Real Madrid, 21, AM(CR),FW",0(4),19,-,-,-,-,0.5,78.3,0.3,-,6.05
+"559Ibrahima KonéAlmeria, 26, FW","Ibrahima Koné Almeria, 26, FW",2(7),275,-,-,-,-,0.4,69.2,1,-,6.05
+"560José PozoRayo Vallecano, 30, AM(C)","José Pozo Rayo Vallecano, 30, AM(C)",0(2),18,-,-,-,-,-,100,-,-,6.05
+"561Karl Etta EyongCadiz, 22, FW","Karl Etta Eyong Cadiz, 22, FW",0(1),20,-,-,-,-,-,100,-,-,6.05
+"562Jastin GarciaGirona, 22, Forward","Jastin Garcia Girona, 22, Forward",0(3),31,-,-,-,-,-,70,-,-,6.05
+"563Mikel JauregizarAthletic Club, 22, DMC","Mikel Jauregizar Athletic Club, 22, DMC",1(6),146,-,-,-,-,0.3,75,0.1,-,6.04
+"564Miguel RodríguezCelta Vigo, 22, AM(CR)","Miguel Rodríguez Celta Vigo, 22, AM(CR)",2(13),291,-,-,2,-,0.4,80,0.1,-,6.04
+"565Diego MariñoAlmeria, 35, GK","Diego Mariño Almeria, 35, GK",1,90,-,-,-,-,-,81,-,-,6.04
+"566Federico GattoniSevilla, 27, D(C)","Federico Gattoni Sevilla, 27, D(C)",0(2),9,-,-,-,-,-,75,1,-,6.04
+"567Ben BreretonVillarreal, 27, AM(CLR),FW","Ben Brereton Villarreal, 27, AM(CLR),FW",2(12),261,-,-,2,-,0.4,78.3,0.1,-,6.04
+"568Javi RuedaCelta Vigo, 23, M(R)","Javi Rueda Celta Vigo, 23, M(R)",0(1),19,-,-,-,-,-,84.6,-,-,6.03
+"569Max SvenssonOsasuna, 24, Forward","Max Svensson Osasuna, 24, Forward",0(1),2,-,-,-,-,-,-,-,-,6.03
+"570Milutin OsmajicCadiz, 26, AM(L),FW","Milutin Osmajic Cadiz, 26, AM(L),FW",0(1),4,-,-,-,-,2,66.7,1,-,6.03
+"571Santi GarcíaGetafe, 24, M(C)","Santi García Getafe, 24, M(C)",0(1),24,-,-,-,-,-,85.7,-,-,6.03
+"572Martin HonglaGranada, 28, D(C),DMC","Martin Hongla Granada, 28, D(C),DMC",6(7),562,-,-,-,-,0.2,84.5,0.2,-,6.03
+"573Alejo VelizSevilla, 22, FW","Alejo Veliz Sevilla, 22, FW",0(6),32,-,-,-,-,0.3,66.7,0.5,-,6.03
+"574Aitor FernándezOsasuna, 34, GK","Aitor Fernández Osasuna, 34, GK",7(1),551,-,-,2,-,-,61.0,-,-,6.03
+"575Aingeru OlabarrietaAthletic Club, 20, Forward","Aingeru Olabarrieta Athletic Club, 20, Forward",0(1),8,-,-,-,-,1,66.7,-,-,6.02
+"576Salim El JebariAtletico, 22, Forward","Salim El Jebari Atletico, 22, Forward",0(1),12,-,-,-,-,-,100.0,-,-,6.02
+"577Arnau PuigmalAlmeria, 25, AM(R)","Arnau Puigmal Almeria, 25, AM(R)",3(8),251,-,-,3,-,-,77.0,0.1,-,6.02
+"578Anthony LozanoGetafe, 33, AM(L),FW","Anthony Lozano Getafe, 33, AM(L),FW",0(6),88,-,-,1,-,0.7,60.0,1.2,-,6.01
+"579Gorka RiveraGetafe, 21, Defender","Gorka Rivera Getafe, 21, Defender",0(1),2,-,-,-,-,-,80.0,-,-,6.01
+"580Mario DomínguezValencia, 22, Forward","Mario Domínguez Valencia, 22, Forward",0(3),23,-,-,-,-,1,100.0,-,-,6.0
+"581Alberto PereaGranada, 35, AM(LR)","Alberto Perea Granada, 35, AM(LR)",0(2),2,-,-,-,-,-,100,-,-,6.0
+"582Álvaro RodríguezReal Madrid, 21, FW","Álvaro Rodríguez Real Madrid, 21, FW",0(1),1,-,-,-,-,-,-,-,-,6.0
+"583Bernardo EspinosaGirona, 36, D(C)","Bernardo Espinosa Girona, 36, D(C)",0(2),2,-,-,-,-,-,87.5,0.5,-,6.0
+"584Eneko OrtizDeportivo Alaves, 22, Defender","Eneko Ortiz Deportivo Alaves, 22, Defender",0(1),13,-,-,-,-,-,100,-,-,6.0
+"585Juan CarlosGirona, 38, GK","Juan Carlos Girona, 38, GK",1,1,-,-,1,-,-,-,-,-,6.0
+"586Marciano SancaAlmeria, 22, Forward","Marciano Sanca Almeria, 22, Forward",0(6),37,-,-,-,-,0.2,60.9,0.7,-,6.0
+"587Miguel Ángel BrauGranada, 24, Defender","Miguel Ángel Brau Granada, 24, Defender",0(1),31,-,-,-,-,-,75,-,-,6.0
+"588Moussa DiakitéCadiz, 22, Midfielder","Moussa Diakité Cadiz, 22, Midfielder",0(1),1,-,-,-,-,-,-,-,-,6.0
+"589Selvi CluaGirona, 21, Midfielder","Selvi Clua Girona, 21, Midfielder",0(1),1,-,-,-,-,-,100,-,-,6.0
+"590Yassin TallalGetafe, 21, Forward","Yassin Tallal Getafe, 21, Forward",0(1),2,-,-,-,-,-,-,1,-,6.0
+"591Pablo GozálbezValencia, 24, AM(C)","Pablo Gozálbez Valencia, 24, AM(C)",1(4),100,-,-,-,-,0.2,53.3,0.2,-,6.0
+"592Çaglar SöyüncüAtletico, 29, D(C)","Çaglar Söyüncü Atletico, 29, D(C)",1(5),111,-,-,-,1,-,87.7,0.2,-,5.99
+"593Alberto SoroGranada, 27, AM(LR)","Alberto Soro Granada, 27, AM(LR)",0(1),7,-,-,-,-,-,100,-,-,5.98
+"594Jeremy JorgeGetafe, 23, Forward","Jeremy Jorge Getafe, 23, Forward",0(1),1,-,-,-,-,-,-,-,-,5.98
+"595Víctor DíazGranada, 37, D(CLR)","Víctor Díaz Granada, 37, D(CLR)",2(2),161,-,-,1,-,-,65.2,0.8,-,5.98
+"596Xabi HuarteOsasuna, 25, Midfielder","Xabi Huarte Osasuna, 25, Midfielder",0(1),8,-,-,-,-,-,100,-,-,5.97
+"597Tomás MendesDeportivo Alaves, 21, Midfielder","Tomás Mendes Deportivo Alaves, 21, Midfielder",0(1),5,-,-,-,-,-,66.7,-,-,5.96
+"598Unai RoperoDeportivo Alaves, 24, Forward","Unai Ropero Deportivo Alaves, 24, Forward",0(1),5,-,-,-,-,-,100,-,-,5.96
+"599Miguel de la FuenteDeportivo Alaves, 26, FW","Miguel de la Fuente Deportivo Alaves, 26, FW",1(2),65,-,-,-,-,0.7,46.7,0.3,-,5.96
+"600Raúl FernándezGranada, 38, GK","Raúl Fernández Granada, 38, GK",4,281,-,-,-,-,-,62.1,-,-,5.96
+"601Daniel FuzatoGetafe, 28, GK","Daniel Fuzato Getafe, 28, GK",0(1),6,-,-,-,-,-,44.4,-,-,5.94
+"602Nabil AberdinGetafe, 23, D(C)","Nabil Aberdin Getafe, 23, D(C)",2,180,-,-,-,-,-,75.9,2,-,5.93
+"603Jon KarrikaburuDeportivo Alaves, 23, Forward","Jon Karrikaburu Deportivo Alaves, 23, Forward",0(2),14,-,-,-,-,-,50,-,-,5.9
+"604Yassine BounouSevilla, 35, GK","Yassine Bounou Sevilla, 35, GK",1,90,-,-,-,-,-,59.3,-,-,5.89
+"605Abde RaihaniAtletico, 22, Forward","Abde Raihani Atletico, 22, Forward",0(1),9,-,-,-,-,-,-,-,-,5.87
+"606Dani CárdenasRayo Vallecano, 29, GK","Dani Cárdenas Rayo Vallecano, 29, GK",1,90,-,-,-,-,-,60,-,-,5.84
+"607Gabri VeigaCelta Vigo, 23, AM(C)","Gabri Veiga Celta Vigo, 23, AM(C)",0(1),17,-,-,-,-,-,75,-,-,5.79
+"608Jesús VallejoGranada, 29, D(CR)","Jesús Vallejo Granada, 29, D(CR)",1(2),106,-,-,1,-,-,91.4,-,-,5.77
+"609Miki BoschGranada, 24, Defender","Miki Bosch Granada, 24, Defender",0(1),25,-,-,-,-,-,78.6,-,-,5.69
+"610Aarón EscandellLas Palmas, 30, GK","Aarón Escandell Las Palmas, 30, GK",2(1),153,-,-,-,1,-,72,-,-,5.66

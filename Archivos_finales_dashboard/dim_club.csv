@@ -1,0 +1,126 @@
+ClubID,ClubNombre,LigaCodigo,AliasSalarios,AliasRating,AliasRend,LigaID
+1,Alavés,La_liga,Alaves,Deportivo Alaves,Alavés,1
+2,Almería,La_liga,Almeria,Almeria,Almería,1
+3,Athletic Club,La_liga,Athletic Club,Athletic Club,Athletic Club,1
+4,Atlético Madrid,La_liga,Atletico Madrid,Atletico,Atlético Madrid,1
+5,Barcelona,La_liga,Barcelona,Barcelona,Barcelona,1
+6,Cádiz,La_liga,Cadiz,Cadiz,Cádiz,1
+7,Celta Vigo,La_liga,Celta Vigo,Celta Vigo,Celta Vigo,1
+8,Elche,La_liga,Elche,Elche,Elche,1
+9,Espanyol,La_liga,Espanyol,Espanyol,Espanyol,1
+10,Getafe,La_liga,Getafe,Getafe,Getafe,1
+11,Girona,La_liga,Girona,Girona,Girona,1
+12,Granada,La_liga,Granada,Granada,Granada,1
+13,Las Palmas,La_liga,Las Palmas,Las Palmas,Las Palmas,1
+14,Leganés,La_liga,Leganes,Leganes,Leganés,1
+15,Levante,La_liga,Levante,Levante,Levante,1
+16,Mallorca,La_liga,Mallorca,Mallorca,Mallorca,1
+17,Osasuna,La_liga,Osasuna,Osasuna,Osasuna,1
+18,Rayo Vallecano,La_liga,Rayo Vallecano,Rayo Vallecano,Rayo Vallecano,1
+19,Real Betis,La_liga,Real Betis,Real Betis,Real Betis,1
+20,Real Madrid,La_liga,Real Madrid,Real Madrid,Real Madrid,1
+21,Real Oviedo,La_liga,Real Oviedo,Real Oviedo,Real Oviedo,1
+22,Real Sociedad,La_liga,Real Sociedad,Real Sociedad,Real Sociedad,1
+23,Real Valladolid,La_liga,Real Valladolid,Real Valladolid,Real Valladolid,1
+24,Sevilla,La_liga,Sevilla,Sevilla,Sevilla,1
+25,Valencia,La_liga,Valencia,Valencia,Valencia,1
+26,Villarreal,La_liga,Villarreal,Villarreal,Villarreal,1
+27,Arsenal,Premier,Arsenal,Arsenal,Arsenal,2
+28,Aston Villa,Premier,Aston Villa,Aston Villa,Aston Villa,2
+29,Bournemouth,Premier,Bournemouth,Bournemouth,Bournemouth,2
+30,Brentford,Premier,Brentford,Brentford,Brentford,2
+31,Brighton,Premier,Brighton,Brighton,Brighton,2
+32,Burnley,Premier,Burnley,Burnley,Burnley,2
+33,Chelsea,Premier,Chelsea,Chelsea,Chelsea,2
+34,Crystal Palace,Premier,Crystal Palace,Crystal Palace,Crystal Palace,2
+35,Everton,Premier,Everton,Everton,Everton,2
+36,Fulham,Premier,Fulham,Fulham,Fulham,2
+37,Ipswich Town,Premier,Ipswich Town,Ipswich,Ipswich Town,2
+38,Leeds United,Premier,Leeds,Leeds,Leeds United,2
+39,Leicester City,Premier,Leicester,Leicester,Leicester City,2
+40,Liverpool,Premier,Liverpool,Liverpool,Liverpool,2
+41,Luton Town,Premier,Luton Town,Luton,Luton Town,2
+42,Manchester City,Premier,Manchester City,Man City,Manchester City,2
+43,Manchester United,Premier,Manchester United,Man Utd,Manchester Utd,2
+44,Newcastle,Premier,Newcastle,Newcastle,Newcastle United,2
+45,Nottingham Forest,Premier,Nottingham Forest,Nottingham Forest,Nottingham Forest,2
+46,Sheffield United,Premier,Sheffield United,Sheff Utd,Sheffield United,2
+47,Southampton,Premier,Southampton,Southampton,Southampton,2
+48,Sunderland,Premier,Sunderland,Sunderland,Sunderland,2
+49,Tottenham,Premier,Tottenham,Tottenham,Tottenham Hotspur,2
+50,West Ham,Premier,West Ham,West Ham,West Ham United,2
+51,Wolverhampton,Premier,Wolverhampton,Wolves,Wolves,2
+52,Augsburg,Bundesliga,Augsburg,Augsburg,Augsburg,3
+53,Bayer Leverkusen,Bundesliga,Bayer Leverkusen,Leverkusen,Leverkusen,3
+54,Bayern Munich,Bundesliga,Bayern Munich,Bayern,Bayern Munich,3
+55,Bochum,Bundesliga,Bochum,Bochum,Bochum,3
+56,Borussia Dortmund,Bundesliga,Borussia Dortmund,Borussia Dortmund,Dortmund,3
+57,Darmstadt,Bundesliga,Darmstadt,Darmstadt,Darmstadt 98,3
+58,Eintracht Frankfurt,Bundesliga,Eintracht Frankfurt,Eintracht Frankfurt,Eintracht Frankfurt,3
+59,Freiburg,Bundesliga,Freiburg,Freiburg,Freiburg,3
+60,Hamburg,Bundesliga,Hamburg,Hamburg,Hamburg,3
+61,Heidenheim,Bundesliga,Heidenheim,Heidenheim,Heidenheim,3
+62,Hertha Berlin,Bundesliga,Hertha Berlin,Hertha Berlin,Hertha BSC,3
+63,Hoffenheim,Bundesliga,Hoffenheim,Hoffenheim,Hoffenheim,3
+64,Holstein Kiel,Bundesliga,Holstein Kiel,Holstein Kiel,Holstein Kiel,3
+65,Köln,Bundesliga,Koln,Koln,Köln,3
+66,Mainz,Bundesliga,Mainz,Mainz,Mainz 05,3
+67,Mönchengladbach,Bundesliga,Monchengladbach,Gladbach,Gladbach,3
+68,RB Leipzig,Bundesliga,Leipzig,Leipzig,RB Leipzig,3
+69,Schalke 04,Bundesliga,Schalke 04,Schalke,Schalke 04,3
+70,St Pauli,Bundesliga,St Pauli,St Pauli,St. Pauli,3
+71,Stuttgart,Bundesliga,Stuttgart,Stuttgart,Stuttgart,3
+72,Union Berlin,Bundesliga,Union Berlin,Union Berlin,Union Berlin,3
+73,Werder Bremen,Bundesliga,Werder Bremen,Werder Bremen,Werder Bremen,3
+74,Wolfsburg,Bundesliga,Wolfsburg,Wolfsburg,Wolfsburg,3
+75,AC Milan,Serie_a,AC Milan,Milan,Milan,4
+76,Atalanta,Serie_a,Atalanta,Atalanta,Atalanta,4
+77,Bologna,Serie_a,Bologna,Bologna,Bologna,4
+78,Cagliari,Serie_a,Cagliari,Cagliari,Cagliari,4
+79,Como,Serie_a,Como,Como,Como,4
+80,Cremonese,Serie_a,Cremonese,Cremonese,Cremonese,4
+81,Empoli,Serie_a,Empoli,Empoli,Empoli,4
+82,Fiorentina,Serie_a,Fiorentina,Fiorentina,Fiorentina,4
+83,Frosinone,Serie_a,Frosinone,Frosinone,Frosinone,4
+84,Genoa,Serie_a,Genoa,Genoa,Genoa,4
+85,Hellas Verona,Serie_a,Hellas Verona,Verona,Hellas Verona,4
+86,Inter,Serie_a,Inter Milan,Inter,Inter,4
+87,Juventus,Serie_a,Juventus,Juventus,Juventus,4
+88,Lazio,Serie_a,Lazio,Lazio,Lazio,4
+89,Lecce,Serie_a,Lecce,Lecce,Lecce,4
+90,Monza,Serie_a,Monza,Monza,Monza,4
+91,Napoli,Serie_a,Napoli,Napoli,Napoli,4
+92,Parma,Serie_a,Parma,Parma,Parma,4
+93,Pisa,Serie_a,Pisa,Pisa,Pisa,4
+94,Roma,Serie_a,Roma,Roma,Roma,4
+95,Salernitana,Serie_a,Salernitana,Salernitana,Salernitana,4
+96,Sampdoria,Serie_a,Sampdoria,Sampdoria,Sampdoria,4
+97,Sassuolo,Serie_a,Sassuolo,Sassuolo,Sassuolo,4
+98,Spezia,Serie_a,Spezia,Spezia,Spezia,4
+99,Torino,Serie_a,Torino,Torino,Torino,4
+100,Udinese,Serie_a,Udinese,Udinese,Udinese,4
+101,Venezia,Serie_a,Venezia,Venezia,Venezia,4
+102,Ajaccio,Ligue,Ajaccio,Ajaccio,Ajaccio,5
+103,Angers,Ligue,Angers,Angers,Angers,5
+104,Auxerre,Ligue,Auxerre,Auxerre,Auxerre,5
+105,Brest,Ligue,Brest,Brest,Brest,5
+106,Clermont,Ligue,Clermont,Clermont Foot,Clermont Foot,5
+107,Le Havre,Ligue,Le Havre,Le Havre,Le Havre,5
+108,Lens,Ligue,Lens,Lens,Lens,5
+109,Lille,Ligue,Lille,Lille,Lille,5
+110,Lorient,Ligue,Lorient,Lorient,Lorient,5
+111,Lyon,Ligue,Lyon,Lyon,Lyon,5
+112,Marseille,Ligue,Marseille,Marseille,Marseille,5
+113,Metz,Ligue,Metz,Metz,Metz,5
+114,Monaco,Ligue,Monaco,Monaco,Monaco,5
+115,Montpellier,Ligue,Montpellier,Montpellier,Montpellier,5
+116,Nantes,Ligue,Nantes,Nantes,Nantes,5
+117,Nice,Ligue,Nice,Nice,Nice,5
+118,Paris FC,Ligue,Paris FC,Paris FC,Paris FC,5
+119,PSG,Ligue,PSG,PSG,Paris Saint-Germain,5
+120,Reims,Ligue,Reims,Reims,Reims,5
+121,Rennes,Ligue,Rennes,Rennes,Rennes,5
+122,Saint-Etienne,Ligue,St-Etienne,Saint-Etienne,Saint-Étienne,5
+123,Strasbourg,Ligue,Strasbourg,Strasbourg,Strasbourg,5
+124,Toulouse,Ligue,Toulouse,Toulouse,Toulouse,5
+125,Troyes,Ligue,Troyes,Troyes,Troyes,5

@@ -1,0 +1,26 @@
+# Windows
+desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.virtual_documents/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
